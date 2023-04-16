@@ -1,0 +1,4564 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "LEATHER TOTE BAG WITH METAL DETAILS",
+      "pictures": [
+        "/media/bag-1-front.3261681e.jpg",
+        "/media/bag-1-back.3657b93d.jpg"
+      ],
+      "stock": 7,
+      "price": 6990,
+      "discount": 3000,
+      "salePrice": 3990,
+      "description": "Black leather tote bag. Gold metal details on the sides. Shoulder straps. Lined interior with pocket. Magnetic clasp closure.",
+      "rating": 4,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black", "brown"]
+    },
+    {
+      "id": 2,
+      "name": "LEATHER TOTE BAG WITH TUBULAR STRAPS",
+      "pictures": [
+        "/media/bag-2-front.d6d2ff09.jpg",
+        "/media/bag-2-back.84090428.jpg"
+      ],
+      "stock": 5,
+      "price": 7990,
+      "discount": 3000,
+      "salePrice": 4990,
+      "description": "Leather tote bag available in caramel and black. Tumbled leather body with pleats. Tubular shoulder straps with knots. Lined interior with a zip pocket. Magnetic clasp closure.",
+      "rating": 5,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["yellow"]
+    },
+    {
+      "id": 3,
+      "name": "LEATHER OVAL TOTE BAG",
+      "pictures": [
+        "/media/bag-3-front.228afdf0.jpg",
+        "/media/bag-3-back.55f4871c.jpg"
+      ],
+      "stock": 10,
+      "price": 7990,
+      "discount": 3000,
+      "salePrice": 4990,
+      "description": "Leather tote bag available in ecru and black. Oval body in soft leather,shoulder strap,lining and zip closure.",
+      "rating": 3,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black", "white"]
+    },
+    {
+      "id": 4,
+      "name": "LEATHER TOTE BAG",
+      "pictures": [
+        "/media/bag-4-front.533290c4.jpg",
+        "/media/bag-4-back.e9b440cb.jpg"
+      ],
+      "stock": 12,
+      "price": 4990,
+      "discount": 2000,
+      "salePrice": 2990,
+      "description": "Black tote bag in tumbled leather. Shoulder straps with stud details.",
+      "rating": 4,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black", "Pink"]
+    },
+    {
+      "id": 5,
+      "name": "ZIPPED LEATHER SHOULDER BAG",
+      "pictures": [
+        "/media/bag-5-front.6e570056.jpg",
+        "/media/bag-5-back.6241a751.jpg"
+      ],
+      "stock": 3,
+      "price": 6990,
+      "discount": 3000,
+      "salePrice": 3990,
+      "description": "Black shoulder bag in grainy leather. Shoulder strap. Lined interior with pocket. Zip closure.",
+      "rating": 2,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black", "silver"]
+    },
+    {
+      "id": 6,
+      "name": "MEDIUM LEATHER TOTE BAG",
+      "pictures": [
+        "/media/bag-6-front.45efbd69.jpg",
+        "/media/bag-6-back.0eedfe7b.jpg"
+      ],
+      "stock": 20,
+      "price": 5990,
+      "discount": 2000,
+      "salePrice": 3990,
+      "description": "Leather tote bag available in several colours: ecru and gold. Straps on the sides. Outer pocket. Shoulder strap. Silver metal hardware. Magnetic clasp fastening.",
+      "rating": 1,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["silver", "gold"]
+    },
+    {
+      "id": 7,
+      "name": "LEATHER ANIMAL PRINT TOTE BAG",
+      "pictures": [
+        "/media/bag-7-front.c7091396.jpg",
+        "/media/bag-7-back.df19def3.jpg"
+      ],
+      "stock": 1,
+      "price": 5990,
+      "discount": 2000,
+      "salePrice": 3990,
+      "description": "Leather tote bag in contrast colours. Animal print on the exterior. Shoulder straps. Lined interior with two pockets,one of which fastens with a zip.",
+      "rating": 4,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["white", "browen"]
+    },
+    {
+      "id": 8,
+      "name": "LEATHER ANIMAL PRINT TOTE BAG",
+      "pictures": [
+        "/media/bag-8-front.a71128ae.jpg",
+        "/media/bag-8-back.ddc9117a.jpg"
+      ],
+      "stock": 3,
+      "price": 5990,
+      "discount": 2000,
+      "salePrice": 3990,
+      "description": "Leather tote bag in contrast colours. Animal print on the exterior. Shoulder straps. Lined interior with two pockets,one of which fastens with a zip.",
+      "rating": 5,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["yellow", "browen"]
+    },
+    {
+      "id": 9,
+      "name": "LEATHER BUCKET BAG",
+      "pictures": [
+        "/media/bag-9-front.e3f6a458.jpg",
+        "/media/bag-9-back.867fbd38.jpg"
+      ],
+      "stock": 5,
+      "price": 7990,
+      "discount": 3000,
+      "salePrice": 4990,
+      "description": "Black leather bucket bag. Gold metal hardware. Removable shoulder strap. Lined interior with pocket. Metal clasp on the foldover flap.",
+      "rating": 5,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black", "blue"]
+    },
+    {
+      "id": 10,
+      "name": "BRAIDED SPLIT SUEDE TOTE BAG",
+      "pictures": [
+        "/media/bag-10-front.403bdc60.jpg",
+        "/media/bag-10-back.b50a4cce.jpg"
+      ],
+      "stock": 20,
+      "price": 6990,
+      "discount": 3000,
+      "salePrice": 3990,
+      "description": "Black leather tote bag with foldable split suede body and braided detail. Featuring back pocket with magnet clasp closure,handles and an adjustable and detachable shoulder strap. Lined interior.",
+      "rating": 4,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black"]
+    },
+    {
+      "id": 11,
+      "name": "LEATHER BACKPACK WITH FLAP",
+      "pictures": [
+        "/media/bag-11-front.80dad18a.jpg",
+        "/media/bag-11-back.e75a2344.jpg"
+      ],
+      "stock": 6,
+      "price": 2990,
+      "discount": 700,
+      "salePrice": 2290,
+      "description": "Orange backpack. Split suede flap. Lined pockets on the side and flap with metal zip. Gold hardware. Adjustable shoulder straps. Pocket in lining. Gathered magnet closure.",
+      "rating": 5,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["orange", "yellow"]
+    },
+    {
+      "id": 12,
+      "name": "RUCHED LEATHER CROSSBODY BAG",
+      "pictures": [
+        "/media/bag-12-front.cf7a5a05.jpg",
+        "/media/bag-12-back.c2b17f69.jpg"
+      ],
+      "stock": 22,
+      "price": 3990,
+      "discount": 2000,
+      "salePrice": 1990,
+      "description": "Leather crossbody bag available in different colours: pale pink,taupe,black and red. Ruched tumbled leather exterior. Adjustable shoulder strap. Lined interior with pocket. Metal zip closure.",
+      "rating": 2,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["red", "black"]
+    },
+    {
+      "id": 13,
+      "name": "DOUBLE-POUCH LEATHER CROSSBODY BAG",
+      "pictures": [
+        "/media/bag-13-front.e12b5869.jpg",
+        "/media/bag-13-back.89cba97c.jpg"
+      ],
+      "stock": 18,
+      "price": 2990,
+      "discount": 700,
+      "salePrice": 2290,
+      "description": "Leather crossbody bag available in burgundy and in black. Leather exterior in contrast finishes: tumbled and split suede. Adjustable shoulder strap. Lined interior with pocket. Zip closure.",
+      "rating": 3,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["marron", "black"]
+    },
+    {
+      "id": 14,
+      "name": "BUCKET BAG WITH RHINESTONES",
+      "pictures": [
+        "/media/bag-14-front.1abca1a7.jpg",
+        "/media/bag-14-back.8547c0a4.jpg"
+      ],
+      "stock": 7,
+      "price": 2290,
+      "discount": 500,
+      "salePrice": 1790,
+      "description": "Black bucket bag. Featuring mesh and rhinestone details on the body,combined chain handles,chain shoulder strap,lining and gathered drawstring fastening.",
+      "rating": 4,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black"]
+    },
+    {
+      "id": 15,
+      "name": "CROSSBODY BUCKET BAG WITH BEADED FRINGING",
+      "pictures": [
+        "/media/bag-15-front.acfeba85.jpg",
+        "/media/bag-15-back.6d263274.jpg"
+      ],
+      "stock": 10,
+      "price": 2290,
+      "discount": 700,
+      "salePrice": 2290,
+      "description": "Black crossbody bag. Cylindrical design and beaded fringing. Beaded top handle. Shoulder strap with gold chain. Fabric bag organiser. Gathered drawstring closure.",
+      "rating": 5,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["white", "black"]
+    },
+    {
+      "id": 16,
+      "name": "BEADED SAFARI BUCKET BAG",
+      "pictures": [
+        "/media/bag-16-front.a6f68b93.jpg",
+        "/media/bag-16-back.19e80110.jpg"
+      ],
+      "stock": 28,
+      "price": 2290,
+      "discount": 700,
+      "salePrice": 2290,
+      "description": "Bucket bag in a combination of colours. Featuring a beaded body,velvet detail at the top,chain shoulder strap,lining and gathered drawstring closure with tassel detail.",
+      "rating": 3,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black"]
+    },
+    {
+      "id": 17,
+      "name": "BEADED BUCKET BAG",
+      "pictures": [
+        "/media/bag-17-front.58dfb55a.jpg",
+        "/media/bag-17-back.234b0bb4.jpg"
+      ],
+      "stock": 20,
+      "price": 2890,
+      "discount": 600,
+      "salePrice": 2290,
+      "description": "Leopard design bucket bag. Combined shiny animal print beading on the exterior and handle. Chain shoulder strap. Lined interior. Gathered drawstring closure.",
+      "rating": 5,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["Gold", "Black"]
+    },
+    {
+      "id": 18,
+      "name": "GOLD MINI BUCKET BAG",
+      "pictures": [
+        "/media/bag-18-front.5ed0720c.jpg",
+        "/media/bag-18-back.3830a03c.jpg"
+      ],
+      "stock": 14,
+      "price": 1890,
+      "discount": 400,
+      "salePrice": 1490,
+      "description": "Gold mini handbag. Soft metallic design with wrinkled finish. Shoulder strap. Lined interior. Gathered drawstring closure.",
+      "rating": 1,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["gold"]
+    },
+    {
+      "id": 19,
+      "name": "DIAMANT KISS LOCK CROSSBODY BAG",
+      "pictures": [
+        "/media/bag-19-front.32ff7f89.jpg",
+        "/media/bag-19-back.c318346f.jpg"
+      ],
+      "stock": 19,
+      "price": 2890,
+      "discount": 600,
+      "salePrice": 2290,
+      "description": "Black mesh crossbody bag with diamant detailing. Metal clasp. Lined interior. Chain shoulder strap. Methacrylate vintage bead kiss lock closure.",
+      "rating": 4,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black"]
+    },
+    {
+      "id": 20,
+      "name": "BEJEWELLED CROSSBODY BAG WITH FRINGING",
+      "pictures": [
+        "/media/bag-20-front.51ac289f.jpg",
+        "/media/bag-20-back.e34bde6d.jpg"
+      ],
+      "stock": 9,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Silver crossbody bag featuring beading and bejewelled detail on the front. Cord shoulder strap with fringed tassels. Lined interior. Magnetic clasp closure.",
+      "rating": 2,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["silver"]
+    },
+    {
+      "id": 21,
+      "name": "METALLIC DIAMANT CROSSBODY BAG",
+      "pictures": [
+        "/media/bag-21-front.eb6d0cdc.jpg",
+        "/media/bag-21-back.60183dc3.jpg"
+      ],
+      "stock": 24,
+      "price": 4990,
+      "discount": 2000,
+      "salePrice": 2990,
+      "description": "Metallic silver crossbody bag. Diamant fringing with metallic beads. Chain shoulder strap. Lined interior. Zip closure.",
+      "rating": 3,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["silver"]
+    },
+    {
+      "id": 22,
+      "name": "BEADED BUCKET BAG",
+      "pictures": [
+        "/media/bag-22-front.bbe8df31.jpg",
+        "/media/bag-22-back.91b54c2a.jpg"
+      ],
+      "stock": 7,
+      "price": 2990,
+      "discount": 700,
+      "salePrice": 2290,
+      "description": "Bucket bag available in different colours: green and gold. Fringe trims on the bottom and shiny beads on the exterior and handle. Lined interior. Magnetic clasp closure.",
+      "rating": 5,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["green", "yellow"]
+    },
+    {
+      "id": 23,
+      "name": "BEADED MINI BUCKET BAG",
+      "pictures": [
+        "/media/bag-23-front.4580d5a8.jpg",
+        "/media/bag-23-back.4729b647.jpg"
+      ],
+      "stock": 5,
+      "price": 2990,
+      "discount": 700,
+      "salePrice": 2290,
+      "description": "Golden mini bucket bag. Beaded exterior. Handle with floral motifs. Fringe trims. Gold chain shoulder strap. Lined interior. Magnetic clasp closure.",
+      "rating": 1,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["gold"]
+    },
+    {
+      "id": 24,
+      "name": "LEATHER CROSSBODY BELT BAG",
+      "pictures": [
+        "/media/bag-24-front.d31d6ad0.jpg",
+        "/media/bag-24-back.e8e05858.jpg"
+      ],
+      "stock": 1,
+      "price": 4990,
+      "discount": 2000,
+      "salePrice": 2990,
+      "description": "Leather crossbody belt bag available in different colours: ecru and black. Soft leather body with flap. Back pocket with magnetic clasp closure",
+      "rating": 4,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["Black", "White"]
+    },
+    {
+      "id": 25,
+      "name": "ANIMAL PRINT LEATHER CLUTCH BAG",
+      "pictures": [
+        "/media/bag-25-front.2b2559d1.jpg",
+        "/media/bag-25-back.97a816d5.jpg"
+      ],
+      "stock": 3,
+      "price": 4990,
+      "discount": 2000,
+      "salePrice": 2990,
+      "description": "Leather clutch bag in a combination of colours. Body made of leather with animal print. Interior lining with two pockets,one of which with snap-button fastening. Zip fastener with wrist strap.",
+      "rating": 5,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["brown"]
+    },
+    {
+      "id": 26,
+      "name": "ANIMAL PRINT LEATHER CROSSBODY BAG",
+      "pictures": [
+        "/media/bag-26-front.0a6e0bde.jpg",
+        "/media/bag-26-back.09142660.jpg"
+      ],
+      "stock": 2,
+      "price": 4990,
+      "discount": 2000,
+      "salePrice": 2990,
+      "description": "Leather crossbody bag in contrast colours. Animal print exterior. Front pocket with magnetic closure. Handles. Chain shoulder strap with comfort strip. Lined interior. Magnetic closure.",
+      "rating": 3,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["brown", "white"]
+    },
+    {
+      "id": 27,
+      "name": "SPLIT SUEDE BUCKET BAG WITH FRINGE",
+      "pictures": [
+        "/media/bag-27-front.ccdbd2f3.jpg",
+        "/media/bag-27-back.d037c3d4.jpg"
+      ],
+      "stock": 13,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Leather colour bucket bag. Split suede body with fringed detailing on the sides. Shoulder strap with golden metallic buckle detail. Lined interior with pocket. Magnetic clasp closure.",
+      "rating": 2,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["brown"]
+    },
+    {
+      "id": 28,
+      "name": "LEATHER EQUESTRIAN CROSSBODY BAG",
+      "pictures": [
+        "/media/bag-28-front.30b89470.jpg",
+        "/media/bag-28-back.21d57c1a.jpg"
+      ],
+      "stock": 20,
+      "price": 4990,
+      "discount": 2000,
+      "salePrice": 2990,
+      "description": "Tan leather crossbody bag. Oval shape. Foldover flap with strap and pendant. Back pocket with magnetic clasp. Handle. Adjustable and removable shoulder strap.",
+      "rating": 4,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["brown"]
+    },
+    {
+      "id": 29,
+      "name": "FRINGED SPLIT SUEDE CROSSBODY BAG",
+      "pictures": [
+        "/media/bag-29-front.6c975fdc.jpg",
+        "/media/bag-29-back.daab46e6.jpg"
+      ],
+      "stock": 40,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Taupe leather crossbody bag. Split suede body. Fringing around the edge. Adjustable shoulder strap. Lined. Magnet closure.",
+      "rating": 5,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["cream"]
+    },
+    {
+      "id": 30,
+      "name": "LEATHER COWBOY CROSSBODY BAG",
+      "pictures": [
+        "/media/bag-30-front.70af4e28.jpg",
+        "/media/bag-30-back.f6340e3a.jpg"
+      ],
+      "stock": 18,
+      "price": 5990,
+      "discount": 2000,
+      "salePrice": 3990,
+      "description": "Black leather crossbody bag. Bag and straps in leather with contrast topstitching. Foldover flap in combined leathers and with floral motifs and animal print.",
+      "rating": 3,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black"]
+    },
+    {
+      "id": 31,
+      "name": "ROCK-STYLE LEATHER CROSSBODY BAG WITH CHAIN STRAP",
+      "pictures": [
+        "/media/bag-31-front.8c385a8b.jpg",
+        "/media/bag-31-back.c2d3a67a.jpg"
+      ],
+      "stock": 8,
+      "price": 4990,
+      "discount": 3000,
+      "salePrice": 1990,
+      "description": "Black leather crossbody bag. Leather exterior. Different-sized studs on the flap and decorative topstitching. Multi-way chain shoulder strap in contrast materials.",
+      "rating": 2,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black"]
+    },
+    {
+      "id": 32,
+      "name": "LEATHER CROSSBODY BAG",
+      "pictures": [
+        "/media/bag-32-front.289f698a.jpg",
+        "/media/bag-32-back.9de1b88b.jpg"
+      ],
+      "stock": 22,
+      "price": 4990,
+      "discount": 2000,
+      "salePrice": 2990,
+      "description": "Red leather crossbody bag in contrast leathers. Gold metal hardware with marble-effect stone detail. Shoulder strap in contrast materials. Lined interior with three compartments.",
+      "rating": 5,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["Red"]
+    },
+    {
+      "id": 33,
+      "name": "LEATHER MINI CITY BAG",
+      "pictures": [
+        "/media/bag-33-front.e68fad86.jpg",
+        "/media/bag-33-back.0aeb9fd8.jpg"
+      ],
+      "stock": 10,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Leather mini city bag available in several colours: RED,ORANGE and fuchsia. Flap with gold metal triangular piece. Handles. Gold chain shoulder strap. Lining. Metal clasp closure.",
+      "rating": 4,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["red", "orange"]
+    },
+    {
+      "id": 34,
+      "name": "EMBROIDERED FABRIC TOTE BAG",
+      "pictures": [
+        "/media/bag-34-front.9b13e0e1.jpg",
+        "/media/bag-34-back.1b91236f.jpg"
+      ],
+      "stock": 17,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Ecru tote bag. Fabric bag with striped and floral embroidery. Contrast piping. Handles in combined materials. Lined interior with pocket. Zip closure.",
+      "rating": 3,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["cream"]
+    },
+    {
+      "id": 35,
+      "name": "FABRIC MAXI TOTE BAG",
+      "pictures": [
+        "/media/bag-35-front.90ede771.jpg",
+        "/media/bag-35-back.c72be6b6.jpg"
+      ],
+      "stock": 8,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Maxi tote bag in combined colours. Tartan check design. Trimmed seams in contrast colour. Front pockets with magnetic clasps. Handles.",
+      "rating": 5,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["green"]
+    },
+    {
+      "id": 36,
+      "name": "TOTE BAG WITH OUTER POCKET",
+      "pictures": [
+        "/media/bag-36-front.2cf13dec.jpg",
+        "/media/bag-36-back.414ad0cf.jpg"
+      ],
+      "stock": 16,
+      "price": 2290,
+      "discount": 500,
+      "salePrice": 1790,
+      "description": "Beige tote bag with a front pockets,shoulder straps and magnetic clasp.",
+      "rating": 3,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["beige"]
+    },
+    {
+      "id": 37,
+      "name": "KNOTTED ANIMAL PRINT BUCKET BAG",
+      "pictures": [
+        "/media/bag-37-front.ebf6d4a8.jpg",
+        "/media/bag-37-back.e4163fd8.jpg"
+      ],
+      "stock": 21,
+      "price": 2890,
+      "discount": 600,
+      "salePrice": 2290,
+      "description": "Black bucket bag with an animal print. Shoulder strap with knot and bow. Lined fluorescent interior. Magnetic clasp closure.",
+      "rating": 2,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black"]
+    },
+    {
+      "id": 38,
+      "name": "XL MONA LISA REVERSIBLE TOTE BAG",
+      "pictures": [
+        "/media/bag-38-front.ca4baab8.jpg",
+        "/media/bag-38-back.dd4e4aa0.jpg"
+      ],
+      "stock": 17,
+      "price": 1890,
+      "discount": 400,
+      "salePrice": 1490,
+      "description": "Black XL tote bag. Reversible nylon body with an image of the Mona Lisa by Leonardo da Vinci on one side and black background on the other.",
+      "rating": 5,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black"]
+    },
+    {
+      "id": 39,
+      "name": "XL REVERSIBLE KLIMT TOTE BAG",
+      "pictures": [
+        "/media/bag-39-front.fe24f79f.jpg",
+        "/media/bag-39-back.502a3ab3.jpg"
+      ],
+      "stock": 8,
+      "price": 1890,
+      "discount": 400,
+      "salePrice": 1490,
+      "description": "Black XL tote bag. Reversible nylon body with an image of The Kiss by Gustav Klimt on one side and a black background on the other. Shoulder straps in contrast materials. Lined interior.",
+      "rating": 4,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black"]
+    },
+    {
+      "id": 40,
+      "name": "SOFT BACKPACK WITH FLAP",
+      "pictures": [
+        "/media/bag-40-front.da23b290.jpg",
+        "/media/bag-40-back.b8e5683e.jpg"
+      ],
+      "stock": 20,
+      "price": 2890,
+      "discount": 600,
+      "salePrice": 2290,
+      "description": "Black backpack. Featuring a soft finish with topstitching in geometric shapes. Flap with metal piece and aged silver chain. Handle and shoulder straps with chain detail.",
+      "rating": 3,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black"]
+    },
+    {
+      "id": 41,
+      "name": "TOWELLING FABRIC BACKPACK",
+      "pictures": [
+        "/media/bag-41-front.05a3cf62.jpg",
+        "/media/bag-41-back.2f3f6f1d.jpg"
+      ],
+      "stock": 15,
+      "price": 2290,
+      "discount": 500,
+      "salePrice": 1790,
+      "description": "Dark blue backpack. Towelling-effect body in contrast materials. Chain detail on the flap. Adjustable shoulder straps with chain detail. Lined interior. Gathered drawstring closure.",
+      "rating": 5,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["blue"]
+    },
+    {
+      "id": 42,
+      "name": "STUDDED BUCKET BAG",
+      "pictures": [
+        "/media/bag-42-front.3bf4416b.jpg",
+        "/media/bag-42-back.cc34f51a.jpg"
+      ],
+      "stock": 35,
+      "price": 2290,
+      "discount": 500,
+      "salePrice": 1790,
+      "description": "Black bucket bag. Studded detail on the contour at the bottom. Handle. Two adjustable and removable shoulder straps,one of which is in contrast technical fabric. Lined interior.",
+      "rating": 2,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black"]
+    },
+    {
+      "id": 43,
+      "name": "SOFT TUMBLED-EFFECT CITY BAG",
+      "pictures": [
+        "/media/bag-43-front.633dd0d1.jpg",
+        "/media/bag-43-back.3cc717ca.jpg"
+      ],
+      "stock": 14,
+      "price": 2890,
+      "discount": 600,
+      "salePrice": 2290,
+      "description": "Black city bag. Soft body with a tumbled-effect finish. Folded sides with snap buttons. Handles. Adjustable and detachable shoulder strap.",
+      "rating": 4,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black"]
+    },
+    {
+      "id": 44,
+      "name": "QUILTED TOTE BAG",
+      "pictures": [
+        "/media/bag-44-front.974009c9.jpg",
+        "/media/bag-44-back.29b15f00.jpg"
+      ],
+      "stock": 22,
+      "price": 2890,
+      "discount": 600,
+      "salePrice": 2290,
+      "description": "Tote bag available in different colours: fuchsia,ecru and black. Quilted exterior. Handles. Adjustable and removable contrast shoulder strap.",
+      "rating": 5,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["white"]
+    },
+    {
+      "id": 45,
+      "name": "QUILTED MAXI CROSSBODY BAG",
+      "pictures": [
+        "/media/bag-45-front.1b2b2771.jpg",
+        "/media/bag-45-back.ce53be8f.jpg"
+      ],
+      "stock": 10,
+      "price": 2290,
+      "discount": 500,
+      "salePrice": 1790,
+      "description": "Maxi crossbody bag available in different colours: beige,yellow,dark blue and black. Featuring a quilted exterior and handle,chain shoulder strap,lined interior and magnetic clasp closure.",
+      "rating": 3,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["blue", "black"]
+    },
+    {
+      "id": 46,
+      "name": "SOFT TOTE BAG WITH KNOTTED STRAP",
+      "pictures": [
+        "/media/bag-46-front.bc927d3c.jpg",
+        "/media/bag-46-back.44a23988.jpg"
+      ],
+      "stock": 19,
+      "price": 1690,
+      "discount": 400,
+      "salePrice": 1290,
+      "description": "Tote bag available in different colours: black and ecru. Soft exterior with a tumbled finish. Pleated detail at the top. Knotted shoulder strap. Lined interior. Zip closure.",
+      "rating": 2,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black", "white"]
+    },
+    {
+      "id": 47,
+      "name": "CITY BAG WITH BRAIDED HANDLE",
+      "pictures": [
+        "/media/bag-47-front.04d89991.jpg",
+        "/media/bag-47-back.2d6ec32e.jpg"
+      ],
+      "stock": 12,
+      "price": 1890,
+      "discount": 400,
+      "salePrice": 1490,
+      "description": "City bag available in different colours: ice and yellow. Contrast piping on the exterior. Braided handles. Adjustable,removable shoulder strap. Lined interior with pocket. Zip closure.",
+      "rating": 5,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["white"]
+    },
+    {
+      "id": 48,
+      "name": "QUILTED NYLON TOTE BAG",
+      "pictures": [
+        "/media/bag-48-front.804199b8.jpg",
+        "/media/bag-48-back.a27c8691.jpg"
+      ],
+      "stock": 7,
+      "price": 2290,
+      "discount": 500,
+      "salePrice": 1790,
+      "description": "Black nylon quilted tote bag. Strap in contrast materials at the top with gold-toned studs. Short shoulder straps. Adjustable and removable long shoulder strap.",
+      "rating": 3,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black"]
+    },
+    {
+      "id": 49,
+      "name": "TECHNICAL BOWLING BAG",
+      "pictures": [
+        "/media/bag-49-front.e38bdac1.jpg",
+        "/media/bag-49-back.b9d64cc3.jpg"
+      ],
+      "stock": 20,
+      "price": 2990,
+      "discount": 700,
+      "salePrice": 2290,
+      "description": "Black bowling bag in technical fabric. Front zip pocket. Pocket on the sides. Technical piece details: contrast lobster clasp. Handles with snap button.",
+      "rating": 2,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black"]
+    },
+    {
+      "id": 50,
+      "name": "QUILTED NYLON MAXI CLUTCH",
+      "pictures": [
+        "/media/bag-50-front.0829bf74.jpg",
+        "/media/bag-50-back.6c547c59.jpg"
+      ],
+      "stock": 8,
+      "price": 2890,
+      "discount": 600,
+      "salePrice": 2290,
+      "description": "Ecru maxi clutch with a quilted nylon body. Front flap pocket with snap-button fastening. Wrist strap. Lined interior with pocket. Zip fastening.",
+      "rating": 2,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["cream"]
+    },
+    {
+      "id": 51,
+      "name": "TECHNICAL FABRIC MINI CITY BAG",
+      "pictures": [
+        "/media/bag-51-front.0da07a8f.jpg",
+        "/media/bag-51-back.0922118f.jpg"
+      ],
+      "stock": 20,
+      "price": 1690,
+      "discount": 400,
+      "salePrice": 1290,
+      "description": "Black mini city bag. Featuring a technical fabric body,handles with iridescent tab and snap button fastening,straps in a combination of materials,adjustable and detachable shoulder strap",
+      "rating": 3,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black"]
+    },
+    {
+      "id": 52,
+      "name": "NYLON MINI CITY BAG",
+      "pictures": [
+        "/media/bag-52-front.6b213712.jpg",
+        "/media/bag-52-back.27e9f45c.jpg"
+      ],
+      "stock": 13,
+      "price": 1890,
+      "discount": 400,
+      "salePrice": 1490,
+      "description": "Mini city bag available in different colours: black and ochre. Nylon exterior. Handles. Chain shoulder strap with combined materials. Lined interior with zip pocket. Gathered drawstring closure.",
+      "rating": 4,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["gold"]
+    },
+    {
+      "id": 53,
+      "name": "MICKEY MOUSE DISNEY MEDIUM TOTE BAG",
+      "pictures": [
+        "/media/bag-53-front.ca3e0844.jpg",
+        "/media/bag-53-back.098c6223.jpg"
+      ],
+      "stock": 4,
+      "price": 1690,
+      "discount": 400,
+      "salePrice": 1290,
+      "description": "an tote bag. Exterior with image of MICKEY MOUSE DISNEY on both sides. Shoulder straps.",
+      "rating": 5,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["yellow"]
+    },
+    {
+      "id": 54,
+      "name": "FLAT ROCKER CROSSBODY BAG",
+      "pictures": [
+        "/media/bag-54-front.c7398113.jpg",
+        "/media/bag-54-back.2c379e28.jpg"
+      ],
+      "stock": 35,
+      "price": 2890,
+      "discount": 600,
+      "salePrice": 2290,
+      "description": "Black crossbody bag. Plain body with metallic eyelets and zip. Silver metal hardware. Tubular handle. Adjustable and removable shoulder strap.",
+      "rating": 4,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black"]
+    },
+    {
+      "id": 55,
+      "name": "STUDDED EQUESTRIAN CROSSBODY BAG",
+      "pictures": [
+        "/media/bag-55-front.274d419b.jpg",
+        "/media/bag-55-back.60ad9189.jpg"
+      ],
+      "stock": 19,
+      "price": 2290,
+      "discount": 500,
+      "salePrice": 1790,
+      "description": "Black crossbody bag. Oval shape. Flap with metal ring detail. Aged gold studs on the flap and handle. Adjustable and detachable shoulder strap. Lined interior. Magnetic clasp closure.",
+      "rating": 3,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black"]
+    },
+    {
+      "id": 56,
+      "name": "SOFT CITY BAG WITH STUDS",
+      "pictures": [
+        "/media/bag-56-front.10c9767b.jpg",
+        "/media/bag-56-back.13203a34.jpg"
+      ],
+      "stock": 6,
+      "price": 1890,
+      "discount": 400,
+      "salePrice": 1490,
+      "description": "Ecru city bag. Featuring a soft body with tumbled effect finish,front flap with golden metal ring,pendant and studs,contrast colour trims,front pocket,handles with golden stud and ring details",
+      "rating": 2,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["cream"]
+    },
+    {
+      "id": 57,
+      "name": "ANIMAL PRINT BUCKET BAG",
+      "pictures": [
+        "/media/bag-57-front.7ca7c8a2.jpg",
+        "/media/bag-57-back.db9ef23b.jpg"
+      ],
+      "stock": 14,
+      "price": 1690,
+      "discount": 400,
+      "salePrice": 1290,
+      "description": "Bucket bag in contrast colours. Animal print on the body and handle. Fluorescent coloured trims on the strap and handle. Adjustable and detachable shoulder strap in technical fabric. Magnetic clasp closure.",
+      "rating": 3,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["silver"]
+    },
+    {
+      "id": 58,
+      "name": "EMBOSSED ANIMAL PRINT CLUTCH",
+      "pictures": [
+        "/media/bag-58-front.29c50252.jpg",
+        "/media/bag-58-back.45f0b370.jpg"
+      ],
+      "stock": 34,
+      "price": 1890,
+      "discount": 400,
+      "salePrice": 1490,
+      "description": "Black clutch bag. Embossed animal print on the body and strap. Wrist strap. Detachable and adjustable shoulder strap. Lined interior. Zip closure.",
+      "rating": 4,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black"]
+    },
+    {
+      "id": 59,
+      "name": "PATCHWORK CROSSBODY BAG",
+      "pictures": [
+        "/media/bag-59-front.6a58e584.jpg",
+        "/media/bag-59-back.f5e46054.jpg"
+      ],
+      "stock": 28,
+      "price": 2290,
+      "discount": 700,
+      "salePrice": 1790,
+      "description": "Black crossbody bag. Featuring a front flap with geometric shapes in contrasting materials. Gold chain shoulder strap with comfort strip. Lined interior with two compartments,one of which has zip closure.",
+      "rating": 5,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black"]
+    },
+    {
+      "id": 60,
+      "name": "PLEATED CLUTCH BAG",
+      "pictures": [
+        "/media/bag-60-front.388c838f.jpg",
+        "/media/bag-60-back.1fc77a8c.jpg"
+      ],
+      "stock": 12,
+      "price": 1690,
+      "discount": 400,
+      "salePrice": 1290,
+      "description": "Black clutch bag. Pleated detail on the exterior. Adjustable and removable shoulder strap. Lined interior. Zip closure with maxi pull tab and wristlet.",
+      "rating": 2,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black"]
+    },
+    {
+      "id": 61,
+      "name": "CROSSBODY BAG WITH CORD STRAP",
+      "pictures": [
+        "/media/bag-61-front.2959bb5b.jpg",
+        "/media/bag-61-back.d8000335.jpg"
+      ],
+      "stock": 3,
+      "price": 2290,
+      "discount": 500,
+      "salePrice": 1790,
+      "description": "Beige crossbody bag. Exterior with a tumbled finish and contrast piping. Back zip compartment. Chain handle. Braided cord shoulder strap in contrast colour and with metal rings. Lined interior.",
+      "rating": 3,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["beige"]
+    },
+    {
+      "id": 62,
+      "name": "SEMICIRCULAR CROSSBODY BAG",
+      "pictures": [
+        "/media/bag-62-front.f1643d7c.jpg",
+        "/media/bag-62-back.e529cc8e.jpg"
+      ],
+      "stock": 11,
+      "price": 1990,
+      "discount": 500,
+      "salePrice": 1490,
+      "description": "Crossbody bag available in tan,mustard yellow and black. Knot detail with buckle on the front flap. Pendant details on the sides. Gold-tone metal hardware.",
+      "rating": 4,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["yellow"]
+    },
+    {
+      "id": 63,
+      "name": "STUDDED CROSSBODY BAG",
+      "pictures": [
+        "/media/bag-63-front.b2198141.jpg",
+        "/media/bag-63-back.ef20428c.jpg"
+      ],
+      "stock": 28,
+      "price": 2990,
+      "discount": 700,
+      "salePrice": 2290,
+      "description": "Black crossbody bag. Body with double flap with stud detail and metal piece in gold on the front. Wrist strap. Adjustable and removable shoulder strap.",
+      "rating": 5,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black"]
+    },
+    {
+      "id": 64,
+      "name": "BEADED MINI BUCKET BAG",
+      "pictures": [
+        "/media/bag-64-front.6c9f2f73.jpg",
+        "/media/bag-64-back.38f80839.jpg"
+      ],
+      "stock": 39,
+      "price": 2890,
+      "discount": 600,
+      "salePrice": 2290,
+      "description": "Gold mini bucket bag. Beaded body with fringe. Handle with beads. Lined interior with pocket. Zip fastening.",
+      "rating": 3,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["gold"]
+    },
+    {
+      "id": 65,
+      "name": "PATENT LEATHER MINI CITY BAG",
+      "pictures": [
+        "/media/bag-65-front.3b018a7b.jpg",
+        "/media/bag-65-back.d275023a.jpg"
+      ],
+      "stock": 16,
+      "price": 1690,
+      "discount": 400,
+      "salePrice": 1290,
+      "description": "Blush-coloured mini-city bag. Patent leather effect on the body. Contrasting trims. Press-button handles. Removable,adjustable shoulder straps. Lined interior. Zip closure.",
+      "rating": 2,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["pink"]
+    },
+    {
+      "id": 66,
+      "name": "ANIMAL PRINT MINI BAGDETAILS",
+      "pictures": [
+        "/media/bag-66-front.868deee6.jpg",
+        "/media/bag-66-back.8824a6d0.jpg"
+      ],
+      "stock": 6,
+      "price": 2290,
+      "discount": 500,
+      "salePrice": 1790,
+      "description": "Mini bag available in blue and pink. Animal print on the body. Double compartment. Handles. Detachable chain shoulder strap. Lined interior. Magnetic clasp closure.",
+      "rating": 1,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["pink"]
+    },
+    {
+      "id": 67,
+      "name": "CROSSBODY MOBILE PHONE CASE",
+      "pictures": [
+        "/media/bag-67-front.f1851753.jpg",
+        "/media/bag-67-back.218f1a59.jpg"
+      ],
+      "stock": 27,
+      "price": 1890,
+      "discount": 400,
+      "salePrice": 1490,
+      "description": "Crossbody mobile phone case available in different colours: black and light pink. Front flap. Two pockets at the back. Chain shoulder strap in combined materials. Lining. Metal clasp closure.",
+      "rating": 5,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["pink"]
+    },
+    {
+      "id": 68,
+      "name": "OVAL MINI CROSSBODY BAG",
+      "pictures": [
+        "/media/bag-68-front.68836e40.jpg",
+        "/media/bag-68-back.3546af26.jpg"
+      ],
+      "stock": 32,
+      "price": 2290,
+      "discount": 500,
+      "salePrice": 1790,
+      "description": "Burgundy mini crossbody bag. Oval shape. Adjustable and removable wide shoulder strap. Lined interior. Magnetic clasp closure.",
+      "rating": 3,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["purple"]
+    },
+    {
+      "id": 69,
+      "name": "TIE-DYE FABRIC BUCKET BAG",
+      "pictures": [
+        "/media/bag-69-front.5651c1c2.jpg",
+        "/media/bag-69-back.e48899e7.jpg"
+      ],
+      "stock": 46,
+      "price": 2290,
+      "discount": 500,
+      "salePrice": 1790,
+      "description": "Bucket bag in a combination of colours. Tie-dye print on the body. Front pocket. Shoulder straps. Two pockets in lining. Zip closure.",
+      "rating": 4,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["Gray", "White"]
+    },
+    {
+      "id": 70,
+      "name": "CANVAS TOTE BAG",
+      "pictures": [
+        "/media/bag-70-front.95df8373.jpg",
+        "/media/bag-70-back.0cf71832.jpg"
+      ],
+      "stock": 20,
+      "price": 2290,
+      "discount": 500,
+      "salePrice": 1790,
+      "description": "Beige tote bag. Made of natural materials. Canvas exterior. Contrast-coloured trims. Handles with slogan zip pulls. Lined interior with zip pocket.",
+      "rating": 4,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["cream"]
+    },
+    {
+      "id": 71,
+      "name": "BRAIDED CROSSBODY BAG WITH SEASHELLS",
+      "pictures": [
+        "/media/bag-71-front.de49fd97.jpg",
+        "/media/bag-71-back.bf923012.jpg"
+      ],
+      "stock": 15,
+      "price": 2990,
+      "discount": 700,
+      "salePrice": 2290,
+      "description": "Black crossbody bag. Braided exterior featuring decorative seashells,a chain trim and fringing around the front flap. Chain shoulder strap. Lined interior with pocket. Magnetic clasp closure.",
+      "rating": 2,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black"]
+    },
+    {
+      "id": 72,
+      "name": "CROSSBODY BAG WITH WOODEN KISS LOCK DETAIL",
+      "pictures": [
+        "/media/bag-72-front.5a900988.jpg",
+        "/media/bag-72-back.89b3858a.jpg"
+      ],
+      "stock": 5,
+      "price": 2290,
+      "discount": 500,
+      "salePrice": 1790,
+      "description": "Crossbody bag in a combination of colours. Made of natural materials. Jute exterior in contrast materials with a polka dot print. Wooden kiss-lock frame",
+      "rating": 3,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["beige"]
+    },
+    {
+      "id": 73,
+      "name": "MARBLE-EFFECT MINAUDIRE",
+      "pictures": [
+        "/media/bag-73-front.f502b0d3.jpg",
+        "/media/bag-73-back.ad7c5ae4.jpg"
+      ],
+      "stock": 12,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Minaudire in a combination of colours. Marble-effect exterior with circular patterns. Metal detail on the contour. Chain shoulder strap. Lined interior. Metal clasp closure.",
+      "rating": 5,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["pink"]
+    },
+    {
+      "id": 74,
+      "name": "NATURAL GLOSSY BRAIDED CROSSBODY BAG",
+      "pictures": [
+        "/media/bag-74-front.80ff87ee.jpg",
+        "/media/bag-74-back.c90d6876.jpg"
+      ],
+      "stock": 23,
+      "price": 2890,
+      "discount": 600,
+      "salePrice": 2290,
+      "description": "Red crossbody bag made of natural materials. Braided body with a glossy finish. Gold metal detail on the front. Shoulder strap. Lined interior. Magnetic clasp with strap closure.",
+      "rating": 2,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["red"]
+    },
+    {
+      "id": 75,
+      "name": "NATURAL MULTICOLOURED WOVEN HANDBAG",
+      "pictures": [
+        "/media/bag-75-front.1a9fbadd.jpg",
+        "/media/bag-75-back.22f122b6.jpg"
+      ],
+      "stock": 34,
+      "price": 2890,
+      "discount": 600,
+      "salePrice": 2290,
+      "description": "Multicoloured handbag. Woven body in contrast colours and materials. Metal trim along the edge. Chain shoulder strap. Lined interior. Clasp closure lined with beads.",
+      "rating": 5,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["red"]
+    },
+    {
+      "id": 76,
+      "name": "BLUE COLLECTION GLITTER MINI CROSSBODY BAG",
+      "pictures": [
+        "/media/bag-76-front.610a8e84.jpg",
+        "/media/bag-76-back.eb2a737a.jpg"
+      ],
+      "stock": 3,
+      "price": 2890,
+      "discount": 600,
+      "salePrice": 2290,
+      "description": "Mini crossbody bag available in silver,fuchsia and blue. Glittery exterior. Satin-finish handles. Chain shoulder strap. Lined interior. Magnetic clasp closure.",
+      "rating": 4,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["blue"]
+    },
+    {
+      "id": 77,
+      "name": "FRINGED TOTE BAG",
+      "pictures": [
+        "/media/bag-77-front.4ec6b6ae.jpg",
+        "/media/bag-77-back.dd2433d6.jpg"
+      ],
+      "stock": 42,
+      "price": 4990,
+      "discount": 2000,
+      "salePrice": 2990,
+      "description": "Tan tote bag. Split suede fringing on the exterior. Shoulder straps. Lined interior with pocket. Zip closure.",
+      "rating": 3,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["brown"]
+    },
+    {
+      "id": 78,
+      "name": "LEATHER ANIMAL PRINT ROCKER CROSSBODY PURSE",
+      "pictures": [
+        "/media/bag-78-front.ee088f33.jpg",
+        "/media/bag-78-back.3b22743c.jpg"
+      ],
+      "stock": 19,
+      "price": 2990,
+      "discount": 700,
+      "salePrice": 2290,
+      "description": "Leather leopard animal print crossbody purse. Stud details on the front flap. Removable chain shoulder strap with comfort strip.",
+      "rating": 3,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["brown"]
+    },
+    {
+      "id": 79,
+      "name": "NYLON BACKPACK TOTE BAG",
+      "pictures": [
+        "/media/bag-79-front.bcbe4c9b.jpg",
+        "/media/bag-79-back.0d456920.jpg"
+      ],
+      "stock": 2,
+      "price": 2290,
+      "discount": 500,
+      "salePrice": 1790,
+      "description": "Nylon backpack-style tote bag in black. Chain detail and two zip pockets on the front. Top handles. Adjustable shoulder straps. Lined interior with pocket. Zip closure.",
+      "rating": 4,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black"]
+    },
+    {
+      "id": 80,
+      "name": "QUILTED BACKPACK",
+      "pictures": [
+        "/media/bag-80-front.436c28fc.jpg",
+        "/media/bag-80-back.2118ef1b.jpg"
+      ],
+      "stock": 20,
+      "price": 2890,
+      "discount": 600,
+      "salePrice": 2290,
+      "description": "Black backpack. Quilted exterior. Front pocket with lined interior and zip closure with quilted zip pull. Top carry handle. Adjustable and detachable shoulder straps.",
+      "rating": 4,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black"]
+    },
+    {
+      "id": 81,
+      "name": "MINI CANVAS ROCK-STYLE CROSSBODY BAG",
+      "pictures": [
+        "/media/bag-81-front.1351ed9c.jpg",
+        "/media/bag-81-back.d63e353b.jpg"
+      ],
+      "stock": 24,
+      "price": 1990,
+      "discount": 500,
+      "salePrice": 1490,
+      "description": "Mini crossbody bag in contrast colours. Canvas body in contrast materials. Stud and metallic detailing on the front. Chain shoulder strap in contrast materials. Lined interior. Metal fastener.",
+      "rating": 5,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black"]
+    },
+    {
+      "id": 82,
+      "name": "METHACRYLATE CROSSBODY MINAUDIRE",
+      "pictures": [
+        "/media/bag-82-front.f1673bdd.jpg",
+        "/media/bag-82-back.28dd2bcf.jpg"
+      ],
+      "stock": 17,
+      "price": 2990,
+      "discount": 700,
+      "salePrice": 2290,
+      "description": "Crossbody minaudire available in black or leopard colours. Oval shape. Methacrylate body. Cord shoulder strap with knotted detail. Fastening with a metal clasp on the top.",
+      "rating": 3,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black"]
+    },
+    {
+      "id": 83,
+      "name": "MINI QUILTED CROSSBODY BAG",
+      "pictures": [
+        "/media/bag-83-front.ee3060e2.jpg",
+        "/media/bag-83-back.6e2264e0.jpg"
+      ],
+      "stock": 5,
+      "price": 1890,
+      "discount": 400,
+      "salePrice": 1490,
+      "description": "Mini crossbody bag available in red,black,yellow,green and white. Quilted exterior and flap. Chain shoulder strap in contrast materials. Lined interior. Metal clasp fastening.",
+      "rating": 3,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["red"]
+    },
+    {
+      "id": 84,
+      "name": "MESH TOTE BAG",
+      "pictures": [
+        "/media/bag-84-front.30b2f655.jpg",
+        "/media/bag-84-back.eb75dacd.jpg"
+      ],
+      "stock": 31,
+      "price": 2290,
+      "discount": 1000,
+      "salePrice": 1290,
+      "description": "Mesh fabric tote bag. Matching handles.",
+      "rating": 4,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["orange", "red"]
+    },
+    {
+      "id": 85,
+      "name": "PEARL BEAD MINI BUCKET BAG",
+      "pictures": [
+        "/media/bag-85-front.2795c293.jpg",
+        "/media/bag-85-back.20e72f36.jpg"
+      ],
+      "stock": 1,
+      "price": 2890,
+      "discount": 600,
+      "salePrice": 2290,
+      "description": "Ecru mini bucket bag. Pear beads and round metal beads all over the body. Handles. Chain shoulder strap. Inner bag in shimmer fabric with gathered drawstring closure.",
+      "rating": 5,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["white"]
+    },
+    {
+      "id": 86,
+      "name": "TRANSPARENT RIGID RIGID MINAUDIRE WITH STUDS",
+      "pictures": [
+        "/media/bag-86-front.2c147ee4.jpg",
+        "/media/bag-86-back.9b570021.jpg"
+      ],
+      "stock": 29,
+      "price": 2890,
+      "discount": 600,
+      "salePrice": 2290,
+      "description": "Transparent mini minaudire. Rigid design with studs detail on the sides. Handle and chain shoulder strap. Magnet closure.",
+      "rating": 2,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["transparent"]
+    },
+    {
+      "id": 87,
+      "name": "SAFARI MINI CROSSBODY BAG",
+      "pictures": [
+        "/media/bag-87-front.dcbd0b03.jpg",
+        "/media/bag-87-back.73d12126.jpg"
+      ],
+      "stock": 36,
+      "price": 2290,
+      "discount": 500,
+      "salePrice": 1790,
+      "description": "Mini crossbody bag in a combination of colours. Featuring a safari print body , front flap with circular metal piece ,two superimposed front pockets , handle,adjustable and detachable shoulder strap.",
+      "rating": 5,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["multicolour"]
+    },
+    {
+      "id": 88,
+      "name": "CONTRAST SNAKESKIN PRINT CROSSBODY BAG",
+      "pictures": [
+        "/media/bag-88-front.f8f35982.jpg",
+        "/media/bag-88-back.44c006ad.jpg"
+      ],
+      "stock": 44,
+      "price": 2990,
+      "discount": 700,
+      "salePrice": 2290,
+      "description": "Crossbody bag in combined colours. Foldover flap with metal detail and knot. Two front pockets and one back pocket with an animal print. Adjustable shoulder strap.",
+      "rating": 4,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["brown"]
+    },
+    {
+      "id": 89,
+      "name": "BLUE COLLECTION BEJEWELLED MINI CROSSBODY BAG",
+      "pictures": [
+        "/media/bag-89-front.d8ff71f1.jpg",
+        "/media/bag-89-back.0b23a5f9.jpg"
+      ],
+      "stock": 54,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Black mini crossbody bag. Exterior with shiny beads and rhinestones in black and silver. Velvet contour and handles. Chain shoulder strap. Lined interior. Magnetic clasp closure.",
+      "rating": 3,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["black"]
+    },
+    {
+      "id": 90,
+      "name": "BEADED BUCKET BAG",
+      "pictures": [
+        "/media/bag-90-front.842f4081.jpg",
+        "/media/bag-90-back.83ea56c2.jpg"
+      ],
+      "stock": 68,
+      "price": 2990,
+      "discount": 700,
+      "salePrice": 2290,
+      "description": "Bucket bag available in different colours: green and gold. Fringe trims on the bottom and shiny beads on the exterior and handle. Lined interior. Magnetic clasp closure.",
+      "rating": 1,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["gold"]
+    },
+    {
+      "id": 91,
+      "name": "TOTE BAG WITH SHELLS",
+      "pictures": [
+        "/media/bag-91-front.e3e224eb.jpg",
+        "/media/bag-91-back.fbd7f937.jpg"
+      ],
+      "stock": 71,
+      "price": 2590,
+      "discount": 1000,
+      "salePrice": 1590,
+      "description": "Tote bag. Matching shoulder straps. Shell appliqus.",
+      "rating": 2,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["beige"]
+    },
+    {
+      "id": 92,
+      "name": "CANVAS TOTE BAG WITH FOLD-DOWN TOP",
+      "pictures": [
+        "/media/bag-92-front.c8ce710b.jpg",
+        "/media/bag-92-back.b4c77b1f.jpg"
+      ],
+      "stock": 12,
+      "price": 2290,
+      "discount": 500,
+      "salePrice": 1790,
+      "description": "Ecru canvas tote bag. Strap detail on the exterior and contrast-coloured shoulder straps. Double shoulder strap. Two at the top and another detachable strap for folding over. Zip closure.",
+      "rating": 5,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["cream"]
+    },
+    {
+      "id": 93,
+      "name": "MEDIUM CROSSBODY BAG WITH FLAP DETAIL",
+      "pictures": [
+        "/media/bag-93-front.a4b7cde3.jpg",
+        "/media/bag-93-back.ee3bf9aa.jpg"
+      ],
+      "stock": 55,
+      "price": 1990,
+      "discount": 500,
+      "salePrice": 1490,
+      "description": "Tan medium oval-shaped crossbody bag. Contrast-coloured trims on the body. Flap with a knot and trim detail. Adjustable and detachable shoulder strap.",
+      "rating": 3,
+      "tags": ["dresswear", "women", "handbags"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "bags",
+      "colors": ["brown", "yellow"]
+    },
+    {
+      "id": 94,
+      "name": "BELT WITH SQUARE BUCKLE",
+      "pictures": [
+        "/media/belt-1-front.1dd3e1f4.jpg",
+        "/media/belt-1-back.1cad95f6.jpg"
+      ],
+      "stock": 10,
+      "price": 1790,
+      "discount": 600,
+      "salePrice": 1190,
+      "description": "Velvet-covered belt with a square metal buckle.",
+      "rating": 4,
+      "tags": ["women", "belt"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "belts",
+      "colors": ["black"]
+    },
+    {
+      "id": 95,
+      "name": "BEJEWELLED METALLIC BELT",
+      "pictures": [
+        "/media/belt-2-front.ba2e7f67.jpg",
+        "/media/belt-2-back.9b62451e.jpg"
+      ],
+      "stock": 22,
+      "price": 1890,
+      "discount": 700,
+      "salePrice": 1190,
+      "description": "Metallic belt featuring a buckle with rhinestones.",
+      "rating": 4,
+      "tags": ["women", "belt"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "belts",
+      "colors": ["golden"]
+    },
+    {
+      "id": 96,
+      "name": "DOUBLE BELT",
+      "pictures": [
+        "/media/belt-3-front.b8d4ae93.jpg",
+        "/media/belt-3-back.cfa2a3a5.jpg"
+      ],
+      "stock": 12,
+      "price": 1790,
+      "discount": 600,
+      "salePrice": 1190,
+      "description": "Faux leather double belt with metal buckle.",
+      "rating": 5,
+      "tags": ["women", "belt"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "belts",
+      "colors": ["black"]
+    },
+    {
+      "id": 97,
+      "name": "PEARL AND JEWEL BELT",
+      "pictures": [
+        "/media/belt-4-front.0275da54.jpg",
+        "/media/belt-4-back.48646b2d.jpg"
+      ],
+      "stock": 5,
+      "price": 1890,
+      "discount": 400,
+      "salePrice": 1490,
+      "description": "Metal belt with faux pearl and multicoloured rhinestone appliqus. Metal hook clasp.",
+      "rating": 3,
+      "tags": ["women", "belt"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "belts",
+      "colors": ["multicolour"]
+    },
+    {
+      "id": 98,
+      "name": "FAUX PEARL AND RHINESTONE BELT",
+      "pictures": [
+        "/media/belt-5-front.4d56b486.jpg",
+        "/media/belt-5-back.8471342a.jpg"
+      ],
+      "stock": 25,
+      "price": 1890,
+      "discount": 700,
+      "salePrice": 1190,
+      "description": "Metal belt with faux pearl and rhinestone appliqus. Metal hook clasp.",
+      "rating": 2,
+      "tags": ["women", "belt"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "belts",
+      "colors": ["golden"]
+    },
+    {
+      "id": 99,
+      "name": "VELVET BELT",
+      "pictures": [
+        "/media/belt-6-front.77e84e34.jpg",
+        "/media/belt-6-back.f75cf9db.jpg"
+      ],
+      "stock": 2,
+      "price": 1590,
+      "discount": 400,
+      "salePrice": 1190,
+      "description": "Velvet-covered belt with a metal buckle.",
+      "rating": 5,
+      "tags": ["women", "belt"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "belts",
+      "colors": ["black"]
+    },
+    {
+      "id": 100,
+      "name": "JEWEL BELT",
+      "pictures": [
+        "/media/belt-7-front.d8eae2b6.jpg",
+        "/media/belt-7-back.bb0036ac.jpg"
+      ],
+      "stock": 20,
+      "price": 2290,
+      "discount": 1000,
+      "salePrice": 1290,
+      "description": "Metallic belt with rhinestones appliqus.",
+      "rating": 4,
+      "tags": ["women", "belt"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "belts",
+      "colors": ["silver"]
+    },
+    {
+      "id": 101,
+      "name": "VELVET AND CHAIN BELT",
+      "pictures": [
+        "/media/belt-8-front.96865915.jpg",
+        "/media/belt-8-back.a70c4a34.jpg"
+      ],
+      "stock": 34,
+      "price": 1790,
+      "discount": 600,
+      "salePrice": 1190,
+      "description": "Combined velvet and metal chain link belt.",
+      "rating": 3,
+      "tags": ["women", "belt"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "belts",
+      "colors": ["black"]
+    },
+    {
+      "id": 102,
+      "name": "BELT WITH ENGRAVED BUCKLE",
+      "pictures": [
+        "/media/belt-9-front.8fff503a.jpg",
+        "/media/belt-9-back.c379a194.jpg"
+      ],
+      "stock": 75,
+      "price": 1590,
+      "discount": 400,
+      "salePrice": 1190,
+      "description": "Belt with an engraved metal buckle and loop.",
+      "rating": 5,
+      "tags": ["women", "belt"],
+      "size": ["M", "XL"],
+      "category": "women",
+      "subcategory": "belts",
+      "colors": ["black"]
+    },
+    {
+      "id": 103,
+      "name": "TWO-TONE HIGH-HEEL SHOES WITH METALLIC TRIMS",
+      "pictures": [
+        "/media/shoes-1-front.475c2987.jpg",
+        "/media/shoes-1-back.987932a0.jpg"
+      ],
+      "stock": 23,
+      "price": 2990,
+      "discount": 700,
+      "salePrice": 2290,
+      "description": "Black high-heel shoes. Gold metallic trim on the upper with a cracked finish in contrast colours. Square stiletto heel. Pointed toe.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 9"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 104,
+      "name": "ANIMAL PRINT HEELED SHOES",
+      "pictures": [
+        "/media/shoes-2-front.b38c58dd.jpg",
+        "/media/shoes-2-back.0872945d.jpg"
+      ],
+      "stock": 80,
+      "price": 2990,
+      "discount": 700,
+      "salePrice": 2290,
+      "description": "Fuchsia high-heel shoes. Animal print upper. Pointed toe. Lined stiletto heel.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 9"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["fuchsia"]
+    },
+    {
+      "id": 105,
+      "name": "TIED HIGH HEEL SHOES",
+      "pictures": [
+        "/media/shoes-3-front.9c3286f6.jpg",
+        "/media/shoes-3-back.f9acea04.jpg"
+      ],
+      "stock": 54,
+      "price": 8990,
+      "discount": 4000,
+      "salePrice": 4490,
+      "description": "Pink high heel shoes. Upper with lace-up detail on the front. Animal print embossed leather on the toe and sides. Pointed toe. Covered stiletto heel.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 9"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["pink"]
+    },
+    {
+      "id": 106,
+      "name": "ANIMAL PRINT LACE HIGH HEEL SHOES",
+      "pictures": [
+        "/media/shoes-4-front.60c18f54.jpg",
+        "/media/shoes-4-back.1883533a.jpg"
+      ],
+      "stock": 12,
+      "price": 8990,
+      "discount": 4000,
+      "salePrice": 4490,
+      "description": "High heel shoes available in two colour combinations. Upper with animal print in leather and lace detail on the sides in contrasting colour. Heel covered with animal print leather. Pointed toe.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 9"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["multicolour"]
+    },
+    {
+      "id": 107,
+      "name": "ANIMAL PRINT LACE HIGH HEEL SHOES",
+      "pictures": [
+        "/media/shoes-5-front.edd65436.jpg",
+        "/media/shoes-5-back.c7802959.jpg"
+      ],
+      "stock": 22,
+      "price": 8990,
+      "discount": 4000,
+      "salePrice": 4490,
+      "description": "Red high heel shoes. Lace upper with leather animal print detail on the toe and back. Heel covered with animal print leather. Pointed toe.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 9"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["red", "pink"]
+    },
+    {
+      "id": 108,
+      "name": "LEATHER HIGH-HEEL SHOES WITH SQUARE TOES",
+      "pictures": [
+        "/media/shoes-6-front.9db7d78a.jpg",
+        "/media/shoes-6-back.d243b089.jpg"
+      ],
+      "stock": 36,
+      "price": 8990,
+      "discount": 4000,
+      "salePrice": 4490,
+      "description": "Leather high heel shoes available in several colours: green,black and burgundy. Leather upper. Front strap. Double ankle strap. Geometric heel. Square toe with opening. Buckle fastening at the ankle.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 9"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black", "red", "bottle green"]
+    },
+    {
+      "id": 109,
+      "name": "BLUE COLLECTION LEATHER METALLIC HIGH HEEL SHOES",
+      "pictures": [
+        "/media/shoes-7-front.a7fd1bf1.jpg",
+        "/media/shoes-7-back.ef2e2366.jpg"
+      ],
+      "stock": 85,
+      "price": 6990,
+      "discount": 3000,
+      "salePrice": 3990,
+      "description": "Leather high heel shoes available in different colours: fuchsia and blue. Leather metallic upper. Stiletto heels. Pointed toes.",
+      "rating": 2,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 9"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["blue", "fuchsia"]
+    },
+    {
+      "id": 110,
+      "name": "FAUX PATENT LEATHER SLINGBACK HEELS",
+      "pictures": [
+        "/media/shoes-8-front.f941b218.jpg",
+        "/media/shoes-8-back.5677c067.jpg"
+      ],
+      "stock": 92,
+      "price": 2890,
+      "discount": 600,
+      "salePrice": 2290,
+      "description": "Yellow high-heel slingback shoes. Faux patent upper. Round stiletto heel. Pointed toe. Buckled wraparound ankle strap for fastening.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 9"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["yellow"]
+    },
+    {
+      "id": 111,
+      "name": "SUEDE MULES WITH BEJEWELLED BUCKLE",
+      "pictures": [
+        "/media/shoes-9-front.5538ce22.jpg",
+        "/media/shoes-9-back.57903939.jpg"
+      ],
+      "stock": 42,
+      "price": 2290,
+      "discount": 500,
+      "salePrice": 1790,
+      "description": "Fuchsia leather mules. Suede upper. Thin strap across the instep with buckle and bejewelled detail. Lined kitten heels. Pointed toes.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 9"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["fuchsia"]
+    },
+    {
+      "id": 112,
+      "name": "SUEDE SHOES WITH METALLIC HEEL DETAIL",
+      "pictures": [
+        "/media/shoes-10-front.7f761b6d.jpg",
+        "/media/shoes-10-back.5ce931f9.jpg"
+      ],
+      "stock": 28,
+      "price": 4590,
+      "discount": 1600,
+      "salePrice": 2990,
+      "description": "Mustard yellow leather high-heel shoes. Suede upper. Metallic stiletto heel. Pointed toe.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 9"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 113,
+      "name": "STUDDED MID-HEEL MULES",
+      "pictures": [
+        "/media/shoes-11-front.50891ddd.jpg",
+        "/media/shoes-11-back.a01c2de5.jpg"
+      ],
+      "stock": 19,
+      "price": 1890,
+      "discount": 400,
+      "salePrice": 1490,
+      "description": "Black mid-heel mules. Studded detailing on the upper. V vamp. Cylinder heel. Slightly squared pointed toe.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 9"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 114,
+      "name": "HEELED SLINGBACK SHOES WITH BOW",
+      "pictures": [
+        "/media/shoes-12-front.1a7ec9dc.jpg",
+        "/media/shoes-12-back.19fcd50a.jpg"
+      ],
+      "stock": 20,
+      "price": 2290,
+      "discount": 500,
+      "salePrice": 1790,
+      "description": "High heel slingback shoes available in different colours: pink and yellow. Bow detail on the back. Lined kitten heels. Pointed toes.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 9"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["Pink", "Yellow"]
+    },
+    {
+      "id": 115,
+      "name": "ANIMAL PRINT LACE-UP BALLERINAS",
+      "pictures": [
+        "/media/shoes-13-front.403768fa.jpg",
+        "/media/shoes-13-back.d384b66a.jpg"
+      ],
+      "stock": 5,
+      "price": 2890,
+      "discount": 1100,
+      "salePrice": 1790,
+      "description": "Black ballerinas. Animal print on the front. Thin crossed straps on the instep. Pointed toe. Tied fastening at the ankle.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 9"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 116,
+      "name": "ANIMAL PRINT MULES",
+      "pictures": [
+        "/media/shoes-14-front.b7fc03ea.jpg",
+        "/media/shoes-14-back.ea75af84.jpg"
+      ],
+      "stock": 7,
+      "price": 2290,
+      "discount": 800,
+      "salePrice": 1490,
+      "description": "White mules. Animal print upper. Pointed toes.",
+      "rating": 2,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 9"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["white"]
+    },
+    {
+      "id": 117,
+      "name": "FABRIC MULES WITH KNOT",
+      "pictures": [
+        "/media/shoes-15-front.00060dbb.jpg",
+        "/media/shoes-15-back.01617eb8.jpg"
+      ],
+      "stock": 17,
+      "price": 2290,
+      "discount": 800,
+      "salePrice": 1490,
+      "description": "Black mules. Gathered fabric with knot detail on the front. Square toes.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 9"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 118,
+      "name": "QUILTED LEATHER MULES",
+      "pictures": [
+        "/media/shoes-16-front.3ca1ebb0.jpg",
+        "/media/shoes-16-back.176cd78a.jpg"
+      ],
+      "stock": 25,
+      "price": 4990,
+      "discount": 2000,
+      "salePrice": 2990,
+      "description": "Black leather mules. Quilted leather upper and square toe.",
+      "rating": 2,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 9"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 119,
+      "name": "FLAT MESH MULES",
+      "pictures": [
+        "/media/shoes-17-front.370efcbd.jpg",
+        "/media/shoes-17-back.747f8e05.jpg"
+      ],
+      "stock": 33,
+      "price": 1990,
+      "discount": 500,
+      "salePrice": 1490,
+      "description": "Flat mesh mules with a pointed toe and square heel.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 9"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 120,
+      "name": "COLOURFUL FLAT MULES",
+      "pictures": [
+        "/media/shoes-18-front.7577e501.jpg",
+        "/media/shoes-18-back.4cd8799c.jpg"
+      ],
+      "stock": 1,
+      "price": 1990,
+      "discount": 500,
+      "salePrice": 1490,
+      "description": "Mustard yellow flat asymmetric mules. Front vent. Pointed toes.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 10"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["yellow"]
+    },
+    {
+      "id": 121,
+      "name": "SLINGBACK FLAT SHOES",
+      "pictures": [
+        "/media/shoes-19-front.8f92bb20.jpg",
+        "/media/shoes-19-back.ffd78bc8.jpg"
+      ],
+      "stock": 10,
+      "price": 1890,
+      "discount": 700,
+      "salePrice": 1190,
+      "description": "Green slingback ballerinas. Elastic strap at the ankle. Pointed toes.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 11"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["green"]
+    },
+    {
+      "id": 122,
+      "name": "SLINGBACK ESPADRILLES WITH CONTRAST TOE",
+      "pictures": [
+        "/media/shoes-20-front.0509416e.jpg",
+        "/media/shoes-20-back.a0c9bc1d.jpg"
+      ],
+      "stock": 23,
+      "price": 2290,
+      "discount": 800,
+      "salePrice": 1490,
+      "description": "Slingback espadrilles in contrast colours. Upper in contrast materials. Toe in a contrast colour. Jute-lined chunky sole.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 12"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["multicolour"]
+    },
+    {
+      "id": 123,
+      "name": "TRAINERS WITH MESH",
+      "pictures": [
+        "/media/shoes-21-front.3063e63e.jpg",
+        "/media/shoes-21-back.09e9452f.jpg"
+      ],
+      "stock": 3,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Black trainers. Mesh upper with a combination of materials and technical pieces. Pull tab on the tongue. Contrast colour chunky soles. Lace-up fastening.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 13"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 124,
+      "name": "FLAT CHUNKY SOLE SHOES",
+      "pictures": [
+        "/media/shoes-22-front.4944bd1a.jpg",
+        "/media/shoes-22-back.2e97937f.jpg"
+      ],
+      "stock": 11,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Black flat lace-up shoes. Monochrome upper with matching topstitching. Padded cuffs. Chunky track sole.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 14"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 125,
+      "name": "TRAINERS WITH CUT-OUT DETAIL",
+      "pictures": [
+        "/media/shoes-23-front.a9e5f46b.jpg",
+        "/media/shoes-23-back.e8af30c0.jpg"
+      ],
+      "stock": 45,
+      "price": 4990,
+      "discount": 1500,
+      "salePrice": 3490,
+      "description": "Black lace-up trainers with combined technical fabric pieces and perforated detailing on the sides. Rubberised trim and back pull tab.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 15"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 126,
+      "name": "HOOK AND LOOP STRAP SNEAKERS",
+      "pictures": [
+        "/media/shoes-24-front.cba30a29.jpg",
+        "/media/shoes-24-back.f9c2a81c.jpg"
+      ],
+      "stock": 6,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "White sneakers. Technical fabric upper with raised effect. Back pull tab. Soles in combined materials. Three hook-and-loop straps for fastening.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 16"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["white"]
+    },
+    {
+      "id": 127,
+      "name": "MULTICOLOURED TRAINERS",
+      "pictures": [
+        "/media/shoes-25-front.d1f3d108.jpg",
+        "/media/shoes-25-back.1129293d.jpg"
+      ],
+      "stock": 19,
+      "price": 4990,
+      "discount": 1500,
+      "salePrice": 3490,
+      "description": "White trainers. Multicoloured pieces on the upper. Colourful pull tab and rubberised piece detail on the back. Chunky soles. Lace-up fastening.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 17"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["white"]
+    },
+    {
+      "id": 128,
+      "name": "HIGH-TOP TRAINERS WITH FAUX FUR LINING",
+      "pictures": [
+        "/media/shoes-26-front.e68c0115.jpg",
+        "/media/shoes-26-back.7702ec8a.jpg"
+      ],
+      "stock": 26,
+      "price": 4990,
+      "discount": 1500,
+      "salePrice": 3490,
+      "description": "Beige high-top trainers. Upper in a combination of materials. Faux fur detail on the inside of the collar and on the top inside part of the tongue.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 18"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["beige"]
+    },
+    {
+      "id": 129,
+      "name": "MESH CHUNKY SOLE SNEAKERS",
+      "pictures": [
+        "/media/shoes-27-front.e58c0e12.jpg",
+        "/media/shoes-27-back.61bafe94.jpg"
+      ],
+      "stock": 48,
+      "price": 4590,
+      "discount": 1100,
+      "salePrice": 3490,
+      "description": "Pink sneakers. Mesh upper in a combination of colours and materials. Pull tab on tongue and back. Chunky track sole. Lace-up.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 19"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["pink"]
+    },
+    {
+      "id": 130,
+      "name": "CONTRAST SNEAKERS",
+      "pictures": [
+        "/media/shoes-28-front.8220ee3a.jpg",
+        "/media/shoes-28-back.d228eb36.jpg"
+      ],
+      "stock": 12,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Lace-up sneakers in contrast colours. Upper in contrast materials. Pull tabs on the tongue and on the back with a logo detail. Track soles in contrast colours.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["multicolour"]
+    },
+    {
+      "id": 131,
+      "name": "TECHNICAL FABRIC SOCK BOOTS",
+      "pictures": [
+        "/media/shoes-29-front.c7def306.jpg",
+        "/media/shoes-29-back.473dce1b.jpg"
+      ],
+      "stock": 21,
+      "price": 2990,
+      "discount": 700,
+      "salePrice": 2290,
+      "description": "Black sporty ankle boots with uppers in elastic technical fabric and a pull tab at the back. Features a piece in a combination of materials at the back and a colourful contrast chunky sole.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 132,
+      "name": "METALLIC TRAINERS",
+      "pictures": [
+        "/media/shoes-30-front.cb50b3ed.jpg",
+        "/media/shoes-30-back.1393c847.jpg"
+      ],
+      "stock": 33,
+      "price": 4990,
+      "discount": 1500,
+      "salePrice": 3490,
+      "description": "Silver trainers with metallic trims and details on the upper. Perforated detailing on the front. Chunky track sole at the back. Lace-up and hook-and-loop strap fastening.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["silver"]
+    },
+    {
+      "id": 133,
+      "name": "LEATHER SNEAKERS",
+      "pictures": [
+        "/media/shoes-31-front.1962be25.jpg",
+        "/media/shoes-31-back.2384d787.jpg"
+      ],
+      "stock": 27,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Leather sneakers,available in white or light pink. Soft leather upper. Pleated tongue. Topstitching along the edge. Soles in contrast textures.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["white"]
+    },
+    {
+      "id": 134,
+      "name": "PLATFORM TRAINERS",
+      "pictures": [
+        "/media/shoes-32-front.826e65dc.jpg",
+        "/media/shoes-32-back.d37c5200.jpg"
+      ],
+      "stock": 42,
+      "price": 2290,
+      "discount": 500,
+      "salePrice": 1790,
+      "description": "White trainers. Upper with perforated details on the sides and matching topstitching on the back. Metal eyelets. Back pull tab. Animal print lining. Contrast colour platform track soles. Lace-up fastening.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["white"]
+    },
+    {
+      "id": 135,
+      "name": "ANIMAL PRINT TRAINERS WITH STUDS",
+      "pictures": [
+        "/media/shoes-33-front.9f3e9a10.jpg",
+        "/media/shoes-33-back.76364660.jpg"
+      ],
+      "stock": 22,
+      "price": 2990,
+      "discount": 700,
+      "salePrice": 2290,
+      "description": "Trainers with animal print on the sides and studs on the back. Leather detail in contrast colour on the tongue,front and back. Lace-up fastening.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["white"]
+    },
+    {
+      "id": 136,
+      "name": "SNEAKERS WITH CONTRASTING TRIMS",
+      "pictures": [
+        "/media/shoes-34-front.f98336e0.jpg",
+        "/media/shoes-34-back.b5199cce.jpg"
+      ],
+      "stock": 19,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Black trainers. Upper in a combination of pieces and materials. Textured thick sole with raised effect. Laces with contrast colour detail.",
+      "rating": 2,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 137,
+      "name": "MOUNTAIN SNEAKERS",
+      "pictures": [
+        "/media/shoes-35-front.dbd35b31.jpg",
+        "/media/shoes-35-back.84df3f5c.jpg"
+      ],
+      "stock": 5,
+      "price": 4990,
+      "discount": 1500,
+      "salePrice": 3490,
+      "description": "Trainers in a combination of colours and materials. Drawstring detail on the back. Back pull tab. Thick,trekking-style sole. Lace-up fastening with lace lock.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["multicolour"]
+    },
+    {
+      "id": 138,
+      "name": "DIAMANT TRAINERS",
+      "pictures": [
+        "/media/shoes-36-front.6b1896b9.jpg",
+        "/media/shoes-36-back.f1b24149.jpg"
+      ],
+      "stock": 65,
+      "price": 4990,
+      "discount": 1500,
+      "salePrice": 3490,
+      "description": "White lace-up trainers with mesh on the sides and tongue. Detachable saddle strap with diamant detail. Back pull tab. Contrast-coloured sole.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["white"]
+    },
+    {
+      "id": 139,
+      "name": "ANIMAL PRINT SNEAKERS",
+      "pictures": [
+        "/media/shoes-37-front.15e9010a.jpg",
+        "/media/shoes-37-back.de105a39.jpg"
+      ],
+      "stock": 74,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Black trainers. Leather upper in a combination of materials with an animal print. Contrast colour chunky soles. Lace-up fastening.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 140,
+      "name": "CONTRAST PLATFORM TRAINERS",
+      "pictures": [
+        "/media/shoes-38-front.4a11b476.jpg",
+        "/media/shoes-38-back.a2718a07.jpg"
+      ],
+      "stock": 46,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Brown lace-up trainers. Contrast materials and colours on the upper with leather and animal print trims. Leather trim on the back. Pull tabs on the tongue and on the back in a contrast colour.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["brown"]
+    },
+    {
+      "id": 141,
+      "name": "METALLIC SPLIT SUEDE TRAINERS",
+      "pictures": [
+        "/media/shoes-39-front.4d0e5b83.jpg",
+        "/media/shoes-39-back.bd55e0a3.jpg"
+      ],
+      "stock": 35,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Beige leather trainers. Split suede upper. Metallic trim on the back in animal print. Chunky sole in a contrast colour. Lace-up fastening in a contrast colour.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["beige"]
+    },
+    {
+      "id": 142,
+      "name": "MULTI-PIECE SNEAKERS",
+      "pictures": [
+        "/media/shoes-40-front.92c1ed34.jpg",
+        "/media/shoes-40-back.5d56e6dd.jpg"
+      ],
+      "stock": 57,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Pink trainers. Upper in combination of materials and technical pieces. Pull tab on the tongue. Contrast colour chunky track soles. Lace-up fastening.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["pink"]
+    },
+    {
+      "id": 143,
+      "name": "SPLIT SUEDE COWBOY-HEEL BOOTS",
+      "pictures": [
+        "/media/shoes-41-front.7a409347.jpg",
+        "/media/shoes-41-back.71354e32.jpg"
+      ],
+      "stock": 66,
+      "price": 7990,
+      "discount": 3000,
+      "salePrice": 4990,
+      "description": "Leather heeled boots available in different colours: tan and black. Split suede upper. Embroidered detail on the leg. Cowboy heel. Pointed toe. Side pull tabs.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 144,
+      "name": "LEATHER HIGH-HEEL BOOTS WITH COWBOY BUCKLE",
+      "pictures": [
+        "/media/shoes-42-front.d1234bed.jpg",
+        "/media/shoes-42-back.fc4a23a9.jpg"
+      ],
+      "stock": 76,
+      "price": 8990,
+      "discount": 4000,
+      "salePrice": 4990,
+      "description": "Black leather high-heel boots. Leather upper with side saddle strap and metal buckle. Stiletto heel. Pointed toe.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 145,
+      "name": "SQUARE TOED HIGH HEEL LEATHER ANKLE BOOTS",
+      "pictures": [
+        "/media/shoes-43-front.fe231ba4.jpg",
+        "/media/shoes-43-back.39724546.jpg"
+      ],
+      "stock": 20,
+      "price": 7990,
+      "discount": 3000,
+      "salePrice": 4990,
+      "description": "Black leather high heel ankle boots. Matching topstitching on the front. Block heel. Square toe. Inside zip fastening.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 146,
+      "name": "LEATHER COWBOY WEDGE-HEEL BOOTS",
+      "pictures": [
+        "/media/shoes-44-front.0ad872ea.jpg",
+        "/media/shoes-44-back.e2870543.jpg"
+      ],
+      "stock": 9,
+      "price": 9990,
+      "discount": 5000,
+      "salePrice": 4990,
+      "description": "Black leather heeled boots. Nappa leather upper. Cowboy heel wedges. Square pointed toe. Side pull tabs.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 147,
+      "name": "SQUARE TOED HIGH HEEL LEATHER ANKLE BOOTS",
+      "pictures": [
+        "/media/shoes-45-front.a494f74a.jpg",
+        "/media/shoes-45-back.47eb0f2d.jpg"
+      ],
+      "stock": 14,
+      "price": 8990,
+      "discount": 2000,
+      "salePrice": 6990,
+      "description": "Leather mid-heel ankle boots available in different colours: white,black and snakeskin print. Leather upper. Rectangular block heel. Square toe. Inside zip fastening.",
+      "rating": 2,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["white"]
+    },
+    {
+      "id": 148,
+      "name": "LEATHER HIGH HEEL ANKLE BOOTS WITH FITTED LEG",
+      "pictures": [
+        "/media/shoes-46-front.e83fc388.jpg",
+        "/media/shoes-46-back.0abcae2f.jpg"
+      ],
+      "stock": 27,
+      "price": 7990,
+      "discount": 3000,
+      "salePrice": 4990,
+      "description": "Leather high heel ankle boots available in several colours: fuchsia,white and orange. Leather upper. Fitted leg. Lined block heels. Metal zip fastening on the back.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["orange", "pink", "white"]
+    },
+    {
+      "id": 149,
+      "name": "BLUE COLLECTION HIGH HEEL SANDALS WITH SQUARE TOE",
+      "pictures": [
+        "/media/shoes-47-front.cb0cf547.jpg",
+        "/media/shoes-47-back.c811efd6.jpg"
+      ],
+      "stock": 35,
+      "price": 4990,
+      "discount": 1500,
+      "salePrice": 3490,
+      "description": "Purple high heel sandals. Straps across the instep with glittery finish. Covered square heel. Square toe.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["purple"]
+    },
+    {
+      "id": 150,
+      "name": "METALLIC ANIMAL PRINT PLATFORM SANDALS",
+      "pictures": [
+        "/media/shoes-48-front.82a94a35.jpg",
+        "/media/shoes-48-back.e16a90bc.jpg"
+      ],
+      "stock": 44,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Gold high-heel sandals. Metallic upper with an animal print. Cross straps on the front. Strap across the instep. Strap around the back of the heel.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["gold"]
+    },
+    {
+      "id": 151,
+      "name": "KNOTTED LEATHER HIGH HEEL MULES",
+      "pictures": [
+        "/media/shoes-49-front.67ab29bf.jpg",
+        "/media/shoes-49-back.77285ec3.jpg"
+      ],
+      "stock": 62,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Green high heel mules. Leather upper. Multiple thin knotted straps across the front. Square toes. Split soles. Square heels.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["green"]
+    },
+    {
+      "id": 152,
+      "name": "MID HEEL SANDALS WITH MULTICOLOURED STRAPS",
+      "pictures": [
+        "/media/shoes-50-front.b0a4c367.jpg",
+        "/media/shoes-50-back.6fe49502.jpg"
+      ],
+      "stock": 29,
+      "price": 1890,
+      "discount": 600,
+      "salePrice": 1290,
+      "description": "Multicoloured sandals. Thin strap on the front in different colours. Lined mid heels. Buckled ankle strap for fastening.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["multicolour"]
+    },
+    {
+      "id": 153,
+      "name": "LEATHER MID HEEL MULES",
+      "pictures": [
+        "/media/shoes-51-front.ca860a99.jpg",
+        "/media/shoes-51-back.4bcec507.jpg"
+      ],
+      "stock": 30,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Leather mid heel mules available in different colours: pink and green. Strap across the front. Lined geometric heels. Square toes.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["pink"]
+    },
+    {
+      "id": 154,
+      "name": "ANIMAL PRINT LEATHER HEELED SANDALS",
+      "pictures": [
+        "/media/shoes-52-front.c619f4d4.jpg",
+        "/media/shoes-52-back.1b65b410.jpg"
+      ],
+      "stock": 52,
+      "price": 4990,
+      "discount": 1500,
+      "salePrice": 3490,
+      "description": "Zebra print leather high heel sandals. Stiletto heels. Square toes and heels.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black", "white"]
+    },
+    {
+      "id": 155,
+      "name": "SUEDE SANDALS WITH HEEL",
+      "pictures": [
+        "/media/shoes-53-front.c4f2e590.jpg",
+        "/media/shoes-53-back.da4b6132.jpg"
+      ],
+      "stock": 28,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Red leather high heel sandals available in grey and red. Featuring a suede upper,a thin strap across the front,lined stiletto heels and fastened with a buckle at the ankle.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["red"]
+    },
+    {
+      "id": 156,
+      "name": "BLUE COLLECTION HIGH HEEL SANDALS WITH GLITTERY STRAPS",
+      "pictures": [
+        "/media/shoes-54-front.8d3116da.jpg",
+        "/media/shoes-54-back.8765e89b.jpg"
+      ],
+      "stock": 11,
+      "price": 6990,
+      "discount": 2000,
+      "salePrice": 4990,
+      "description": "High-heel sandals in a combination of colours. Thin asymmetric tubular strap in metallic leather on the front. Multiple leather straps on the side and multiple straps at the back in a combination of glittery materials.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["multicolour"]
+    },
+    {
+      "id": 157,
+      "name": "HIGH-HEELED PLATFORM SANDALS WITH METALLIC STRAPS",
+      "pictures": [
+        "/media/shoes-55-front.56e9590c.jpg",
+        "/media/shoes-55-back.d73f1385.jpg"
+      ],
+      "stock": 6,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Multicoloured high heel sandals. Metallic upper. Straps on the front with knot detail. Covered block heel. Contour of the sole,toe and platform with animal print.",
+      "rating": 2,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["multicolour"]
+    },
+    {
+      "id": 158,
+      "name": "BLUE COLLECTION LEATHER MID HEEL SANDALS",
+      "pictures": [
+        "/media/shoes-56-front.3d733a65.jpg",
+        "/media/shoes-56-back.00e17ecb.jpg"
+      ],
+      "stock": 102,
+      "price": 5990,
+      "discount": 2500,
+      "salePrice": 3490,
+      "description": "Blue leather high-heel sandals. Leather upper. Transparent vinyl strap across the front. Covered stiletto heel. Square toe. Buckled ankle strap fastening.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["blue"]
+    },
+    {
+      "id": 159,
+      "name": "BUCKLED FLAT SANDALS",
+      "pictures": [
+        "/media/shoes-57-front.4557e9a2.jpg",
+        "/media/shoes-57-back.0aabc048.jpg"
+      ],
+      "stock": 84,
+      "price": 3990,
+      "discount": 1500,
+      "salePrice": 2490,
+      "description": "Cream-coloured flat sandals. Two front straps with gold metal buckles. Studded detailing on the sides. Split sole.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["cream"]
+    },
+    {
+      "id": 160,
+      "name": "BEADED FLAT SANDALS",
+      "pictures": [
+        "/media/shoes-58-front.201cf6d9.jpg",
+        "/media/shoes-58-back.db7799da.jpg"
+      ],
+      "stock": 62,
+      "price": 2990,
+      "discount": 1000,
+      "salePrice": 1990,
+      "description": "Flat gold sandals. Beaded strap across the front with gold detail.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["gold"]
+    },
+    {
+      "id": 161,
+      "name": "ANIMAL PRINT LEATHER FLAT SANDALS WITH BUCKLES",
+      "pictures": [
+        "/media/shoes-59-front.fd0e965e.jpg",
+        "/media/shoes-59-back.575f8ccd.jpg"
+      ],
+      "stock": 76,
+      "price": 4990,
+      "discount": 1000,
+      "salePrice": 3990,
+      "description": "Leather flat sandals in a combination of colours. Featuring a leather upper with animal print. Double straps across the front. Split soles. Hook-and-loop strap at the ankle.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["multicolour"]
+    },
+    {
+      "id": 162,
+      "name": "BLUE COLLECTION FLAT SANDALS WITH FEATHER TRIMS",
+      "pictures": [
+        "/media/shoes-60-front.446266a0.jpg",
+        "/media/shoes-60-back.be9e607d.jpg"
+      ],
+      "stock": 68,
+      "price": 4990,
+      "discount": 1000,
+      "salePrice": 3990,
+      "description": "Flat sandals available in yellow and purple. Feather trims on the front. Leather straps on each side and in the back with an animal print. Square toe and heel. Ankle strap fastening.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["yellow"]
+    },
+    {
+      "id": 163,
+      "name": "ANIMAL PRINT LEATHER FLAT SANDALS",
+      "pictures": [
+        "/media/shoes-61-front.b32f2aa5.jpg",
+        "/media/shoes-61-back.da5e0b53.jpg"
+      ],
+      "stock": 9,
+      "price": 2290,
+      "discount": 500,
+      "salePrice": 1790,
+      "description": "Leopard print leather flat sandals. Animal print front straps. Decorative contrast-coloured topstitching along the outer edge of the insole. Buckled ankle strap fastening.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["brown"]
+    },
+    {
+      "id": 164,
+      "name": "VINYL MULES",
+      "pictures": [
+        "/media/shoes-62-front.3567e72d.jpg",
+        "/media/shoes-62-back.2943f5a8.jpg"
+      ],
+      "stock": 13,
+      "price": 2890,
+      "discount": 600,
+      "salePrice": 2290,
+      "description": "High-heel mules available in indigo and in white. Transparent vinyl upper. Stiletto heel. Pointed toes. Combination of materials.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["white"]
+    },
+    {
+      "id": 165,
+      "name": "FLAT LEATHER MOUNTAIN ANKLE BOOTS WITH FAUX FUR TRIM",
+      "pictures": [
+        "/media/shoes-63-front.575e6753.jpg",
+        "/media/shoes-63-back.942cf16b.jpg"
+      ],
+      "stock": 29,
+      "price": 7990,
+      "discount": 3000,
+      "salePrice": 4990,
+      "description": "Brown flat leather ankle boots. Padded cuff and tongue with faux fur trims. Back pull tab. Track sole. Lace-up fastening with colour details and metal eyelets.",
+      "rating": 2,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["brown"]
+    },
+    {
+      "id": 166,
+      "name": "LEATHER STRAPPY HIGH-HEEL SANDALS",
+      "pictures": [
+        "/media/shoes-64-front.375270e3.jpg",
+        "/media/shoes-64-back.9e64766a.jpg"
+      ],
+      "stock": 32,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Leather high-heel sandals available in red and in white. Leather upper. Strap across the front. Thin tubular straps over the instep and behind the heel. Stiletto heels. Square-cut toe.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["white", "red"]
+    },
+    {
+      "id": 167,
+      "name": "METALLIC LEATHER HEELED MULES",
+      "pictures": [
+        "/media/shoes-65-front.dec70a73.jpg",
+        "/media/shoes-65-back.97f1ce11.jpg"
+      ],
+      "stock": 17,
+      "price": 4590,
+      "discount": 1600,
+      "salePrice": 2990,
+      "description": "Silver leather heeled mules. Metallic soft leather upper. Wood-effect block heels. Square toes and heels.",
+      "rating": 2,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["silver"]
+    },
+    {
+      "id": 168,
+      "name": "FLAT SUEDE SANDALS WITH BOW",
+      "pictures": [
+        "/media/shoes-66-front.ad830895.jpg",
+        "/media/shoes-66-back.640f3412.jpg"
+      ],
+      "stock": 4,
+      "price": 2290,
+      "discount": 500,
+      "salePrice": 1790,
+      "description": "Fuchsia leather flat sandals Split suede upper. Bow detail on the front.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["fuchsia"]
+    },
+    {
+      "id": 169,
+      "name": "FLAT TEXTURED RUBBER SANDALS",
+      "pictures": [
+        "/media/shoes-67-front.be907a47.jpg",
+        "/media/shoes-67-back.d92721f5.jpg"
+      ],
+      "stock": 58,
+      "price": 1890,
+      "discount": 400,
+      "salePrice": 1490,
+      "description": "Flat black sandals. Wide strap across the front with raised textured detailing.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 170,
+      "name": "FLAT SLINGBACK SHOES WITH V VAMP",
+      "pictures": [
+        "/media/shoes-68-front.355f94ca.jpg",
+        "/media/shoes-68-back.b4d2dd29.jpg"
+      ],
+      "stock": 22,
+      "price": 1990,
+      "discount": 500,
+      "salePrice": 1490,
+      "description": "Ecru flat slingback shoes. V vamp. Elastic strap on the sides and at the ankle. Silver metal detail on the heels. Pointed toes.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["white"]
+    },
+    {
+      "id": 171,
+      "name": "FAUX PATENT FINISH KITTEN-HEEL SHOES WITH MESH",
+      "pictures": [
+        "/media/shoes-69-front.de9ad581.jpg",
+        "/media/shoes-69-back.5dd0b643.jpg"
+      ],
+      "stock": 47,
+      "price": 2290,
+      "discount": 500,
+      "salePrice": 1790,
+      "description": "Black kitten heel shoes. Patent finish upper. Mesh detail on the sides at the back. Vent on the inside. Lined heel. Pointed toe.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 172,
+      "name": "BLUE COLLECTION LEATHER SLINGBACK HEELS WITH BOW",
+      "pictures": [
+        "/media/shoes-70-front.af467d26.jpg",
+        "/media/shoes-70-back.a80a1735.jpg"
+      ],
+      "stock": 87,
+      "price": 5990,
+      "discount": 2000,
+      "salePrice": 3990,
+      "description": "Black leather slingback heels. Leather upper. Decorative suede bow on the front. Thin nappa slingback strap at the back. Covered stiletto heel. Pointed toe. Tie fastening at the ankle.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 173,
+      "name": "METALLIC LEATHER HIGH-HEEL SHOES",
+      "pictures": [
+        "/media/shoes-71-front.3fcd3223.jpg",
+        "/media/shoes-71-back.b11711a0.jpg"
+      ],
+      "stock": 38,
+      "price": 6990,
+      "discount": 3000,
+      "salePrice": 3990,
+      "description": "Leather high-heel shoes available in black and snakeskin print. Metallic leather upper. One has a crackled finish,and the other has an animal print. V vamp. Stiletto heel. Pointed toe.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 174,
+      "name": "BLUE COLLECTION LEATHER KITTEN HEEL SANDALS",
+      "pictures": [
+        "/media/shoes-72-front.a2fa0a70.jpg",
+        "/media/shoes-72-back.0a81bca9.jpg"
+      ],
+      "stock": 16,
+      "price": 5990,
+      "discount": 2500,
+      "salePrice": 3490,
+      "description": "Black leather heeled sandals. Animal print leather upper. Metal ring on the front. Lined kitten heel.",
+      "rating": 2,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 175,
+      "name": "COMBINED TRAINERS WITH VINYL",
+      "pictures": [
+        "/media/shoes-73-front.b71f521d.jpg",
+        "/media/shoes-73-back.2a075082.jpg"
+      ],
+      "stock": 8,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "White trainers. Upper in a combination of materials and colours with animal print and mesh details. Transparent vinyl on the sides and on the tongue.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["white"]
+    },
+    {
+      "id": 176,
+      "name": "SLINGBACK KITTEN-HEEL SHOES",
+      "pictures": [
+        "/media/shoes-74-front.8803bcad.jpg",
+        "/media/shoes-74-back.294cff8b.jpg"
+      ],
+      "stock": 24,
+      "price": 2290,
+      "discount": 500,
+      "salePrice": 1790,
+      "description": "White slingback heels. Back strap. Kitten heel. Pointed toe.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["white"]
+    },
+    {
+      "id": 177,
+      "name": "BRAIDED SLINGBACK HIGH HEEL SHOES",
+      "pictures": [
+        "/media/shoes-75-front.98c3a773.jpg",
+        "/media/shoes-75-back.ff5882f2.jpg"
+      ],
+      "stock": 46,
+      "price": 2290,
+      "discount": 500,
+      "salePrice": 1790,
+      "description": "Red mid heel slingback shoes. Plaited upper. Bow detail on the back. Stiletto heels. Pointed toes.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["red"]
+    },
+    {
+      "id": 178,
+      "name": "FLAT LEATHER BIKER ANKLE BOOTS",
+      "pictures": [
+        "/media/shoes-76-front.218005f6.jpg",
+        "/media/shoes-76-back.cbaae09b.jpg"
+      ],
+      "stock": 58,
+      "price": 7990,
+      "discount": 3000,
+      "salePrice": 4990,
+      "description": "Flat leather ankle boots available in different colours: black and white. Leather upper with chains,faux pearls,buckle and metal eyelets. Padded collar. Back pull tab. Thick soles.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black", "white"]
+    },
+    {
+      "id": 179,
+      "name": "STUDDED HIGH HEEL SLINGBACK SHOES WITH BOW DETAIL",
+      "pictures": [
+        "/media/shoes-77-front.7aee5a33.jpg",
+        "/media/shoes-77-back.e62d52c1.jpg"
+      ],
+      "stock": 3,
+      "price": 2890,
+      "discount": 600,
+      "salePrice": 2290,
+      "description": "Black high heel shoes. Maxi bow on the front with micro-studded detailing. Elastic strap around the back of the ankle. Stiletto heel. Pointed toe.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 180,
+      "name": "POLKA DOT HIGH-HEEL SANDALS",
+      "pictures": [
+        "/media/shoes-78-front.20454241.jpg",
+        "/media/shoes-78-back.3a096d2b.jpg"
+      ],
+      "stock": 52,
+      "price": 3290,
+      "discount": 1000,
+      "salePrice": 2290,
+      "description": "High-heel sandals in a combination of materials. Contrast-coloured polka dots. Front strap. Back strap. Lined stiletto heel. Square-cut toe. Tied fastening at the ankle.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 181,
+      "name": "MULTICOLOURED DIAMANT MESH HIGH-HEEL SHOES",
+      "pictures": [
+        "/media/shoes-79-front.4d40d166.jpg",
+        "/media/shoes-79-back.5e68fa0c.jpg"
+      ],
+      "stock": 37,
+      "price": 2990,
+      "discount": 700,
+      "salePrice": 2290,
+      "description": "Black high-heel shoes. Upper with a mesh detail and multicoloured rhinestones. Stiletto heel. Pointed toe.",
+      "rating": 2,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 182,
+      "name": "NATURAL JUTE PLATFORM WEDGES",
+      "pictures": [
+        "/media/shoes-80-front.615f1a83.jpg",
+        "/media/shoes-80-back.b948fcac.jpg"
+      ],
+      "stock": 44,
+      "price": 1890,
+      "discount": 600,
+      "salePrice": 1290,
+      "description": "Wedges with a natural finish. Made of natural materials. Jute upper. Wide strap across the instep. Wedge and platform covered in jute.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["beige"]
+    },
+    {
+      "id": 183,
+      "name": "HIGH-HEEL ANKLE BOOTS WITH ZIP",
+      "pictures": [
+        "/media/shoes-81-front.c6b8228a.jpg",
+        "/media/shoes-81-back.81df0030.jpg"
+      ],
+      "stock": 12,
+      "price": 4990,
+      "discount": 1500,
+      "salePrice": 3490,
+      "description": "Mid-heel ankle boots available in red and in black. The black model features an animal print upper. Lined stiletto mid heel. Pointed toe. Zip fastening on the front.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["red"]
+    },
+    {
+      "id": 184,
+      "name": "TOPSTITCHED HIGH-HEEL ANKLE BOOTS",
+      "pictures": [
+        "/media/shoes-82-front.829b4fc2.jpg",
+        "/media/shoes-82-back.22068f64.jpg"
+      ],
+      "stock": 56,
+      "price": 4990,
+      "discount": 1500,
+      "salePrice": 3490,
+      "description": "Black high heel ankle boots featuring topstitching detail in a contrasting colour on the upper,elastic side panels and a back pull tab. Block heel. Square toe.",
+      "rating": 2,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 185,
+      "name": "FLAT LEATHER CHELSEA BOOTS WITH STUDS",
+      "pictures": [
+        "/media/shoes-83-front.a01a29bb.jpg",
+        "/media/shoes-83-back.4e7c3999.jpg"
+      ],
+      "stock": 6,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Black leather low-heel ankle boots. Leather upper with studs. Elastic side panels.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 186,
+      "name": "LEATHER HIGH-HEEL WRAPAROUND SANDALS",
+      "pictures": [
+        "/media/shoes-84-front.70ba8dc3.jpg",
+        "/media/shoes-84-back.c506a67b.jpg"
+      ],
+      "stock": 20,
+      "price": 5990,
+      "discount": 1500,
+      "salePrice": 3490,
+      "description": "Black leather high-heel sandals. Wraparound leather upper with details and gold interior. Covered stiletto heel. Square toe. Zip closure on the back.",
+      "rating": 2,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 187,
+      "name": "VELVET HIGH HEEL PLATFORM SANDALS",
+      "pictures": [
+        "/media/shoes-85-front.94639678.jpg",
+        "/media/shoes-85-back.2d45b4b5.jpg"
+      ],
+      "stock": 36,
+      "price": 4990,
+      "discount": 1500,
+      "salePrice": 3490,
+      "description": "Black high heel sandals. Upper,sole and heel in velvet with raised detail. Front knot. Back strap. Lined block heel with platform. Square toe. Buckled ankle strap fastening.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 188,
+      "name": "PLATFORM ANKLE BOOTS",
+      "pictures": [
+        "/media/shoes-86-front.dd050417.jpg",
+        "/media/shoes-86-back.9752284a.jpg"
+      ],
+      "stock": 49,
+      "price": 2990,
+      "discount": 700,
+      "salePrice": 2290,
+      "description": "Black high-heel ankle boots. Lined chunky heel with platform. Interior zip fastening.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 189,
+      "name": "LEATHER FLAT SANDALS WITH TORTOISESHELL BUCKLE",
+      "pictures": [
+        "/media/shoes-87-front.4842644a.jpg",
+        "/media/shoes-87-back.a989066c.jpg"
+      ],
+      "stock": 57,
+      "price": 2990,
+      "discount": 1000,
+      "salePrice": 1990,
+      "description": "Leather flat sandals available in black and in sand. Split suede straps. Strap across the instep with a tortoiseshell buckle. Toe strap.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["beige"]
+    },
+    {
+      "id": 190,
+      "name": "LEATHER HIGH HEEL SANDALS WITH GATHERING",
+      "pictures": [
+        "/media/shoes-88-front.dd70fcc3.jpg",
+        "/media/shoes-88-back.22bda997.jpg"
+      ],
+      "stock": 76,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Leather mid-heel sandals available in cream and burgundy. Leather upper. Gathered leather straps with toe divider. Mid kitten heel. Pointed toe.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["Cream", "Red"]
+    },
+    {
+      "id": 191,
+      "name": "COLOURED RUBBER FLAT SANDALS",
+      "pictures": [
+        "/media/shoes-89-front.ad902439.jpg",
+        "/media/shoes-89-back.3b449710.jpg"
+      ],
+      "stock": 3,
+      "price": 2290,
+      "discount": 700,
+      "salePrice": 1790,
+      "description": "Flat rubber sandals available in pink,green,lilac and orange. Two straps at the front. Square toes. Ankle strap buckle fastening.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["purple", "green", "orange"]
+    },
+    {
+      "id": 192,
+      "name": "TORTOISESHELL HIGH-HEEL MULES WITH STRAP",
+      "pictures": [
+        "/media/shoes-90-front.cff88d73.jpg",
+        "/media/shoes-90-back.04782bae.jpg"
+      ],
+      "stock": 15,
+      "price": 2890,
+      "discount": 600,
+      "salePrice": 2290,
+      "description": "Multicoloured high-heel mules. Vinyl upper with a tortoiseshell print. Thin strap across the instep. Stiletto heel. Pointed toe.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["multicolour"]
+    },
+    {
+      "id": 193,
+      "name": "FLAT SANDALS WITH BRAIDED METALLIC STRAPS",
+      "pictures": [
+        "/media/shoes-91-front.35fee23d.jpg",
+        "/media/shoes-91-back.67e5bcba.jpg"
+      ],
+      "stock": 50,
+      "price": 1990,
+      "discount": 500,
+      "salePrice": 1490,
+      "description": "Flat gold sandals. Thin braided straps criss-crossed over the instep. Toe divider.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["gold"]
+    },
+    {
+      "id": 194,
+      "name": "ESPARTO ESPADRILLES",
+      "pictures": [
+        "/media/shoes-92-front.71011218.jpg",
+        "/media/shoes-92-back.355d5518.jpg"
+      ],
+      "stock": 25,
+      "price": 1990,
+      "discount": 500,
+      "salePrice": 1490,
+      "description": "Denim-coloured espadrilles. Upper in contrast colours. Toe in a contrast colour. Jute-lined sole.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["denim"]
+    },
+    {
+      "id": 195,
+      "name": "MESH HEELED MULES WITH STRAP",
+      "pictures": [
+        "/media/shoes-93-front.f4124599.jpg",
+        "/media/shoes-93-back.727df2ea.jpg"
+      ],
+      "stock": 38,
+      "price": 2890,
+      "discount": 600,
+      "salePrice": 2290,
+      "description": "Black stiletto heel mules. Mesh detail on the upper. Thin strap with elastic on the instep in a combination of materials. Pointed toes.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 196,
+      "name": "METALLIC HIGH HEEL SHOES",
+      "pictures": [
+        "/media/shoes-94-front.bb53d00f.jpg",
+        "/media/shoes-94-back.b5505ff3.jpg"
+      ],
+      "stock": 70,
+      "price": 2890,
+      "discount": 600,
+      "salePrice": 2290,
+      "description": "Silver high-heel shoes. Asymmetric upper with pleated detail on the front and a metallic finish. Cut-out detail on the side. Contrast-coloured stiletto heel. Pointed toe.",
+      "rating": 2,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["silver"]
+    },
+    {
+      "id": 197,
+      "name": "TRACK SOLE SNEAKERS",
+      "pictures": [
+        "/media/shoes-95-front.e2c39001.jpg",
+        "/media/shoes-95-back.644c696e.jpg"
+      ],
+      "stock": 43,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "White lace-up sneakers. Combination of materials on the upper. Contrast-coloured details. Animal print on the front and heel. Chunky sole with raised effect.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["white"]
+    },
+    {
+      "id": 198,
+      "name": "TRACK SOLE TRAINERS",
+      "pictures": [
+        "/media/shoes-96-front.3f9bf196.jpg",
+        "/media/shoes-96-back.30f0dfca.jpg"
+      ],
+      "stock": 98,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "White lace-up trainers. Upper in contrast materials and trims. Rubberised piece on the back. Pull tab on the tongue. Contrast-coloured chunky split track sole.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["white"]
+    },
+    {
+      "id": 199,
+      "name": "SNAKESKIN PRINT LEATHER HEELED SHOES",
+      "pictures": [
+        "/media/shoes-97-front.d2881333.jpg",
+        "/media/shoes-97-back.cf08adf5.jpg"
+      ],
+      "stock": 30,
+      "price": 4990,
+      "discount": 2000,
+      "salePrice": 2290,
+      "description": "Leather high-heel shoes in a combination of colours. Animal print leather upper. Stiletto heel. Pointed toe.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["multicolour"]
+    },
+    {
+      "id": 200,
+      "name": "MID HEEL ANKLE BOOTS WITH FAUX PEARLS AND STUDS",
+      "pictures": [
+        "/media/shoes-98-front.a2c261ee.jpg",
+        "/media/shoes-98-back.cfe2d7d5.jpg"
+      ],
+      "stock": 15,
+      "price": 4590,
+      "discount": 1100,
+      "salePrice": 3490,
+      "description": "Black mid heel ankle boots. Studs and faux pearls on the upper. Elastic side tabs with straps. Block heel. Back pull tab.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 201,
+      "name": "LOW-HEEL CUT-OUT ANKLE BOOTS WITH BUCKLE DETAIL",
+      "pictures": [
+        "/media/shoes-99-front.ee824696.jpg",
+        "/media/shoes-99-back.aa6eb844.jpg"
+      ],
+      "stock": 7,
+      "price": 2890,
+      "discount": 600,
+      "salePrice": 2290,
+      "description": "Black low-heel ankle boots. Upper with cut-out detailing on the sides. Back pull tab. Fastens on the side with a round metal buckle.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 202,
+      "name": "HIGH HEEL SANDALS WITH TUBE STRAPS",
+      "pictures": [
+        "/media/shoes-100-front.dc55a11e.jpg",
+        "/media/shoes-100-back.b15c118c.jpg"
+      ],
+      "stock": 21,
+      "price": 2890,
+      "discount": 1100,
+      "salePrice": 1790,
+      "description": "Gold high-heel sandals. Thin tube straps across the front. Lined stiletto heels. Square toes. Fastening with buckled strap at the ankle.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["gold"]
+    },
+    {
+      "id": 203,
+      "name": "FLAT SANDALS WITH RHINESTONE STRAP",
+      "pictures": [
+        "/media/shoes-101-front.9fff6dbd.jpg",
+        "/media/shoes-101-back.1ffc74f3.jpg"
+      ],
+      "stock": 40,
+      "price": 2290,
+      "discount": 500,
+      "salePrice": 1790,
+      "description": "Gold flat sandals. Rhinestone-appliqud front strap. Toe divider.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["gold"]
+    },
+    {
+      "id": 204,
+      "name": "FABRIC MULES WITH KNOT",
+      "pictures": [
+        "/media/shoes-102-front.368d2f3c.jpg",
+        "/media/shoes-102-back.01617eb8.jpg"
+      ],
+      "stock": 45,
+      "price": 2290,
+      "discount": 800,
+      "salePrice": 1490,
+      "description": "Black mules. Gathered fabric with knot detail on the front. Square toes.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 205,
+      "name": "LEATHER TRAINERS WITH FAUX FUR TRIM",
+      "pictures": [
+        "/media/shoes-103-front.bd1792df.jpg",
+        "/media/shoes-103-back.5ccb205e.jpg"
+      ],
+      "stock": 61,
+      "price": 4990,
+      "discount": 1500,
+      "salePrice": 3490,
+      "description": "Beige leather trainers. Split suede upper. Faux fur trim on the tongue and interior. Rubberised piece at the back and contrast-coloured soles. Lace-up fastening with metal lace hooks.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["beige"]
+    },
+    {
+      "id": 206,
+      "name": "TECHNICAL HIGH-HEEL LACE-UP ANKLE BOOTS",
+      "pictures": [
+        "/media/shoes-104-front.0827e57d.jpg",
+        "/media/shoes-104-back.097ab7d0.jpg"
+      ],
+      "stock": 84,
+      "price": 4990,
+      "discount": 1500,
+      "salePrice": 3490,
+      "description": "Black high-heel ankle boots. Technical fabric and contrast materials on the upper. Lined stiletto heel. Pointed toe. Lace-up fastening with metal eyelets on the front and zip in the back.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 207,
+      "name": "SHINY KITTEN-HEEL ANKLE BOOTS",
+      "pictures": [
+        "/media/shoes-105-front.e8e6e67f.jpg",
+        "/media/shoes-105-back.ca8c5f52.jpg"
+      ],
+      "stock": 12,
+      "price": 4990,
+      "discount": 1500,
+      "salePrice": 3490,
+      "description": "Shiny ankle boots with a bejewelled upper. Kitten heel and pointed toe. Zip fastening on the inside.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 208,
+      "name": "COMBINED CHUNKY TRAINERS",
+      "pictures": [
+        "/media/shoes-106-front.db307c49.jpg",
+        "/media/shoes-106-back.e17eebb0.jpg"
+      ],
+      "stock": 6,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Trainers in combined colours. Combined materials on the upper. Pull tab on the tongue. Chunky soles.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["multicolour"]
+    },
+    {
+      "id": 209,
+      "name": "MID-HEEL LEATHER SHOES",
+      "pictures": [
+        "/media/shoes-107-front.7c5c0ce8.jpg",
+        "/media/shoes-107-back.31fd462d.jpg"
+      ],
+      "stock": 93,
+      "price": 4590,
+      "discount": 1500,
+      "salePrice": 2990,
+      "description": "Leather high-heel sandals available in red and in white. Leather upper. Strap across the front. Thin tubular straps over the instep and behind the heel. Stiletto heels. Square-cut toe.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["White", "Red"]
+    },
+    {
+      "id": 210,
+      "name": "HIGH HEEL SHOES WITH MESH",
+      "pictures": [
+        "/media/shoes-108-front.7ca4ecfb.jpg",
+        "/media/shoes-108-back.1c7ef27a.jpg"
+      ],
+      "stock": 48,
+      "price": 2990,
+      "discount": 700,
+      "salePrice": 2290,
+      "description": "Black high-heel shoes. Mesh upper. Elastic strap on the instep and around the back. Stiletto heel. Pointed toe.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 211,
+      "name": "PLATFORM HIGH-HEEL SHOES",
+      "pictures": [
+        "/media/shoes-109-front.5b762f0e.jpg",
+        "/media/shoes-109-back.6c021535.jpg"
+      ],
+      "stock": 66,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2290,
+      "description": "Black high-heel shoes. Covered geometric chunky high heels with platform. Square toes. Buckled ankle strap fastening.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 212,
+      "name": "ANIMAL PRINT BALLERINAS WITH TOECAP DETAIL",
+      "pictures": [
+        "/media/shoes-110-front.3306c636.jpg",
+        "/media/shoes-110-back.1665b39b.jpg"
+      ],
+      "stock": 5,
+      "price": 2290,
+      "discount": 800,
+      "salePrice": 1490,
+      "description": "Leopard print ballerinas. Animal print on the upper and insole. Animal print covered heel. Toecap in a contrast colour.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["brown"]
+    },
+    {
+      "id": 213,
+      "name": "STUDDED CLOGS WITH FAUX FUR",
+      "pictures": [
+        "/media/shoes-111-front.a5b305b5.jpg",
+        "/media/shoes-111-back.74354ba8.jpg"
+      ],
+      "stock": 23,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Black clogs. Gold metal studs on the contour. Faux fur detail on the insoles.",
+      "rating": 2,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 214,
+      "name": "STUDDED FRINGED LEATHER LOAFERS",
+      "pictures": [
+        "/media/shoes-112-front.1ec2e620.jpg",
+        "/media/shoes-112-back.c3f4d25f.jpg"
+      ],
+      "stock": 45,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Sand-coloured leather loafers. Soft split suede upper. Fringes and gold micro-studs on the front and penny strap.",
+      "rating": 2,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["beige"]
+    },
+    {
+      "id": 215,
+      "name": "SOCK-STYLE HIGH-TOP TRAINERS",
+      "pictures": [
+        "/media/shoes-113-front.69ed0b0f.jpg",
+        "/media/shoes-113-back.f26f6174.jpg"
+      ],
+      "stock": 63,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Black high-top trainers. Upper in elastic fabric. Rubberised piece on the front and back. Back pull tab. Contrast-coloured chunky sole with a raised,textured design and neon detailing.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 216,
+      "name": "LACE-UP LEATHER ANKLE BOOTS",
+      "pictures": [
+        "/media/shoes-114-front.63da56ec.jpg",
+        "/media/shoes-114-back.ecc50917.jpg"
+      ],
+      "stock": 72,
+      "price": 4990,
+      "discount": 1500,
+      "salePrice": 3490,
+      "description": "Leather high-heel ankle boots available in tan and ecru. Leather upper. Laces on the front. Round block heel. Zip fastening on the inside.",
+      "rating": 2,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["beige"]
+    },
+    {
+      "id": 217,
+      "name": "HIGH HEEL ANKLE BOOTS WITH V VAMP",
+      "pictures": [
+        "/media/shoes-115-front.6f01712d.jpg",
+        "/media/shoes-115-back.38344ddb.jpg"
+      ],
+      "stock": 31,
+      "price": 2890,
+      "discount": 600,
+      "salePrice": 2290,
+      "description": "White high heel ankle boots. V vamp. Lined stiletto heels. Pointed toes.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["white"]
+    },
+    {
+      "id": 218,
+      "name": "HEELED STRETCH ANKLE BOOTS",
+      "pictures": [
+        "/media/shoes-116-front.ac9bd269.jpg",
+        "/media/shoes-116-back.47479ad8.jpg"
+      ],
+      "stock": 14,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Black heeled ankle boots. Stretch upper. Stiletto heels. Inside zip closure.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 219,
+      "name": "LEATHER ANKLE BOOTS WITH METALLIC HEEL",
+      "pictures": [
+        "/media/shoes-117-front.ea777148.jpg",
+        "/media/shoes-117-back.05df096f.jpg"
+      ],
+      "stock": 22,
+      "price": 5990,
+      "discount": 2000,
+      "salePrice": 3990,
+      "description": "Black leather mid heel ankle boots. Elastic side panels. Metallic block heel. Pointed toe.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 220,
+      "name": "HIGH HEEL TRACK-SOLE ANKLE BOOTS",
+      "pictures": [
+        "/media/shoes-118-front.00a25a55.jpg",
+        "/media/shoes-118-back.1eb0f987.jpg"
+      ],
+      "stock": 27,
+      "price": 4990,
+      "discount": 1500,
+      "salePrice": 3490,
+      "description": "Black high-heel ankle boots. Upper in contrast materials. Elastic side panels. Lined block heel. Pull tab in the back. Track sole.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 221,
+      "name": "ANIMAL PRINT COWBOY ANKLE BOOTS",
+      "pictures": [
+        "/media/shoes-119-front.ae8c574d.jpg",
+        "/media/shoes-119-back.94388a25.jpg"
+      ],
+      "stock": 30,
+      "price": 2890,
+      "discount": 600,
+      "salePrice": 2290,
+      "description": "Block heel cowboy ankle boots. Animal print upper. Pointed toes.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 222,
+      "name": "FLAT ANKLE BOOTS WITH STUDS",
+      "pictures": [
+        "/media/shoes-120-front.f90c387a.jpg",
+        "/media/shoes-120-back.a857aca0.jpg"
+      ],
+      "stock": 45,
+      "price": 2890,
+      "discount": 600,
+      "salePrice": 2290,
+      "description": "Flat ankle boots available in different colours: navy blue and khaki,one with an animal print. Featuring studs on the upper. Elastic side tabs. Almond toe. Pull tab on the front and the back.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["brown"]
+    },
+    {
+      "id": 223,
+      "name": "VINYL SLINGBACK SHOES",
+      "pictures": [
+        "/media/shoes-121-front.4ced41cd.jpg",
+        "/media/shoes-121-back.c7b5f260.jpg"
+      ],
+      "stock": 56,
+      "price": 2890,
+      "discount": 600,
+      "salePrice": 2290,
+      "description": "Heeled slingback shoes in contrast colours. Transparent vinyl and contrast materials on the upper. Cut-out details on the sides and in the back. Stiletto heel. Pointed toe.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["multicolour"]
+    },
+    {
+      "id": 224,
+      "name": "LEATHER BACKLESS HIGH HEEL SHOES",
+      "pictures": [
+        "/media/shoes-122-front.d6d3cd9e.jpg",
+        "/media/shoes-122-back.459f5853.jpg"
+      ],
+      "stock": 72,
+      "price": 4590,
+      "discount": 1600,
+      "salePrice": 2990,
+      "description": "White leather high heel slingback shoes. Leather upper. Contrast-coloured stiletto heels. Pointed toes.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["white"]
+    },
+    {
+      "id": 225,
+      "name": "ASYMMETRIC LEATHER HIGH-HEEL SLINGBACK SHOES",
+      "pictures": [
+        "/media/shoes-123-front.9d22005c.jpg",
+        "/media/shoes-123-back.9a3ba14d.jpg"
+      ],
+      "stock": 48,
+      "price": 4990,
+      "discount": 2000,
+      "salePrice": 2990,
+      "description": "Blue leather high-heel slingback shoes. Asymmetric leather upper with crease detail. Lined stiletto heel. Pointed toe.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["blue"]
+    },
+    {
+      "id": 226,
+      "name": "GLOSSY FINISH FLAT SHOES WITH TOPSTITCHING",
+      "pictures": [
+        "/media/shoes-124-front.6997bb2a.jpg",
+        "/media/shoes-124-back.23cc4071.jpg"
+      ],
+      "stock": 67,
+      "price": 2990,
+      "discount": 1000,
+      "salePrice": 1990,
+      "description": "Black flat shoes. Glossy finish upper. Contrast-coloured topstitching on the welt. Back pull tab. Chunky track soles. Lace-up fastening.",
+      "rating": 2,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 227,
+      "name": "SNEAKERS WITH ANIMAL PRINT TRIMS",
+      "pictures": [
+        "/media/shoes-125-front.c34d5912.jpg",
+        "/media/shoes-125-back.75e88621.jpg"
+      ],
+      "stock": 2,
+      "price": 4990,
+      "discount": 1500,
+      "salePrice": 3490,
+      "description": "White lace-up sneakers. Contrast materials and colours on the upper. Animal print details on the sides and heel. Back pull tab. Trims in a contrast colour on the back and sole. Chunky sole.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["white"]
+    },
+    {
+      "id": 228,
+      "name": "IRIDESCENT STRAPPY HIGH-HEEL SANDALS",
+      "pictures": [
+        "/media/shoes-126-front.d83e3ec9.jpg",
+        "/media/shoes-126-back.19011cc7.jpg"
+      ],
+      "stock": 18,
+      "price": 2890,
+      "discount": 1100,
+      "salePrice": 1790,
+      "description": "Multicoloured high-heel sandals. Iridescent upper with multiple straps across the front. Covered stiletto heels. Square toes. Buckled ankle strap fastening.",
+      "rating": 2,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["silver"]
+    },
+    {
+      "id": 229,
+      "name": "BLUE COLLECTION LEATHER METALLIC MID HEEL SHOES",
+      "pictures": [
+        "/media/shoes-127-front.30d88e9c.jpg",
+        "/media/shoes-127-back.9ad324de.jpg"
+      ],
+      "stock": 74,
+      "price": 5990,
+      "discount": 2500,
+      "salePrice": 3490,
+      "description": "Leather mid heel shoes available in different colours: blue,green and pink. Leather metallic upper. Thin tubular straps with knotted details on the front. Lined heels.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["pink"]
+    },
+    {
+      "id": 230,
+      "name": "BLUE COLLECTION TIED LEATHER HIGH HEEL SANDALS",
+      "pictures": [
+        "/media/shoes-128-front.7ccedcf3.jpg",
+        "/media/shoes-128-back.5a4343cb.jpg"
+      ],
+      "stock": 80,
+      "price": 6990,
+      "discount": 2000,
+      "salePrice": 4990,
+      "description": "Leather high-heel sandals available in fuchsia and in silver. Leather upper. Thin straps across the front. Covered stiletto heel. Square toe. Tied ankle strap fastening.",
+      "rating": 2,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["silver", "fuchsia"]
+    },
+    {
+      "id": 231,
+      "name": "BLUE COLLECTION TIED LEATHER HIGH HEEL SANDALS",
+      "pictures": [
+        "/media/shoes-129-front.eed17e99.jpg",
+        "/media/shoes-129-back.c3e27fb0.jpg"
+      ],
+      "stock": 20,
+      "price": 6990,
+      "discount": 2000,
+      "salePrice": 4990,
+      "description": "Leather high-heel sandals in a combination of colours. Leather upper. Thin crossed straps on the front. Stiletto heel and glitter detailing on the sole. Square toe. Tied ankle strap fastening.",
+      "rating": 1,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["multicolour"]
+    },
+    {
+      "id": 232,
+      "name": "TAN LEATHER FLAT SANDALS WITH CRISS-CROSS STRAPS",
+      "pictures": [
+        "/media/shoes-130-front.164e1e6a.jpg",
+        "/media/shoes-130-back.038d6cda.jpg"
+      ],
+      "stock": 44,
+      "price": 2990,
+      "discount": 1000,
+      "salePrice": 1990,
+      "description": "Tan leather flat sandals. Criss-crossed leather straps with toe divider. Topstitching detail on the insole,on the front and on the back. Ankle strap closure with old-gold-toned buckle.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["brown"]
+    },
+    {
+      "id": 233,
+      "name": "FLAT FAUX FUR SHOES",
+      "pictures": [
+        "/media/shoes-131-front.522dd046.jpg",
+        "/media/shoes-131-back.e496d40f.jpg"
+      ],
+      "stock": 62,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "Beige flat mules with a faux fur upper.",
+      "rating": 1,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["beige"]
+    },
+    {
+      "id": 234,
+      "name": "FLAT LEATHER ANKLE BOOTS WITH FAUX PEARLS",
+      "pictures": [
+        "/media/shoes-132-front.84f609b9.jpg",
+        "/media/shoes-132-back.c2246364.jpg"
+      ],
+      "stock": 21,
+      "price": 7990,
+      "discount": 3000,
+      "salePrice": 4990,
+      "description": "Black leather flat ankle boots. Leather upper featuring decorative laces and straps with metal buckles,pearl beads,studs and rhinestones. Back pull tab. Inside zip fastening.",
+      "rating": 2,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 235,
+      "name": "IRIDESCENT SNEAKERS",
+      "pictures": [
+        "/media/shoes-133-front.73ca12fc.jpg",
+        "/media/shoes-133-back.17379633.jpg"
+      ],
+      "stock": 6,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "White lace-up sneakers. Iridescent details on the front and on the sides. Chunky soles.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["white"]
+    },
+    {
+      "id": 236,
+      "name": "LEATHER MULE LOAFERS WITH BOW",
+      "pictures": [
+        "/media/shoes-134-front.c2ff216f.jpg",
+        "/media/shoes-134-back.31453b40.jpg"
+      ],
+      "stock": 65,
+      "price": 2990,
+      "discount": 1000,
+      "salePrice": 1990,
+      "description": "Sand-coloured leather mule loafers. Split suede upper. Decorative bow on the front. Wood-effect heel.",
+      "rating": 3,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["brown"]
+    },
+    {
+      "id": 237,
+      "name": "PLATFORM TRAINERS",
+      "pictures": [
+        "/media/shoes-135-front.5bdc727e.jpg",
+        "/media/shoes-135-back.a765c62a.jpg"
+      ],
+      "stock": 19,
+      "price": 2990,
+      "discount": 700,
+      "salePrice": 2290,
+      "description": "Black lace-up trainers with embossed animal print,mesh and quilted panels on the upper. Back pull tab and heel counter in a contrast colour. Chunky sole in contrast colours.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["black"]
+    },
+    {
+      "id": 238,
+      "name": "ANIMAL PRINT INSOLE HIGH HEEL SHOES",
+      "pictures": [
+        "/media/shoes-136-front.5f373ab0.jpg",
+        "/media/shoes-136-back.1aec9b08.jpg"
+      ],
+      "stock": 34,
+      "price": 2890,
+      "discount": 600,
+      "salePrice": 2290,
+      "description": "Camel high heel shoes. Animal print insoles. Pointed toes. Stiletto heels.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["brown"]
+    },
+    {
+      "id": 239,
+      "name": "FLAT SUEDE SLINGBACK SHOES",
+      "pictures": [
+        "/media/shoes-137-front.98984bc6.jpg",
+        "/media/shoes-137-back.584a0ca5.jpg"
+      ],
+      "stock": 46,
+      "price": 2890,
+      "discount": 1100,
+      "salePrice": 1790,
+      "description": "Tan flat leather slingback shoes. Suede upper with V-vamp. Elasticated heel strap. Pointed toes.",
+      "rating": 4,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["brown"]
+    },
+    {
+      "id": 240,
+      "name": "CONTRAST SNEAKERS",
+      "pictures": [
+        "/media/shoes-138-front.7d28f1d7.jpg",
+        "/media/shoes-138-back.ba10ee68.jpg"
+      ],
+      "stock": 92,
+      "price": 3990,
+      "discount": 1000,
+      "salePrice": 2990,
+      "description": "White sneakers with a combination of colours and materials on the upper. Featuring a mountaineering-style metal facing and a pull tab on the tongue and at the back. Fastened with coloured laces.",
+      "rating": 5,
+      "tags": ["women", "shoes", "sandals"],
+      "size": ["UK 4", "UK 5", "UK 6", "UK 7", "UK 8", "UK 20"],
+      "category": "women",
+      "subcategory": "footwear",
+      "colors": ["white"]
+    }
+  ]
+}
